@@ -1,2 +1,2 @@
 # General App Flow
-![diagram-export-26-06-2025-23_46_57](https://github.com/user-attachments/assets/5ea7a1a0-9e5c-4f46-8794-3c6d8836929b)
+![Screenshot 2025-06-29 021816](https://github.com/user-attachments/assets/03c99185-46ff-4ac9-9a94-5278801be650)
