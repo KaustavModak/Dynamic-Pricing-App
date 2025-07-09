@@ -1,0 +1,1591 @@
+product_name,category,mrp,manufacturing_date,expiry_date,location_zone,state,inventory_level,brand_reputation_score
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-25,2025-07-02,Tier-1,Maharashtra,280,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-21,2025-06-07,Tier-2,Maharashtra,710,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-12,2025-07-10,Tier-3,Maharashtra,224,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-22,2025-07-12,Tier-1,Delhi,97,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-11,2025-06-13,Tier-2,Delhi,140,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-11,2025-06-22,Tier-3,Delhi,353,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-20,2025-06-28,Tier-1,Karnataka,815,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-07-01,2025-07-31,Tier-2,Karnataka,170,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-21,2025-07-22,Tier-3,Karnataka,262,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-20,2025-06-23,Tier-1,Tamil Nadu,570,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-06,2025-07-13,Tier-2,Tamil Nadu,709,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-17,2025-07-11,Tier-3,Tamil Nadu,199,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-17,2025-05-29,Tier-1,West Bengal,494,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-13,2025-05-29,Tier-2,West Bengal,30,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-24,2025-07-21,Tier-3,West Bengal,397,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-08,2025-07-01,Tier-1,Gujarat,251,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-06,2025-05-24,Tier-2,Gujarat,355,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-11,2025-05-22,Tier-3,Gujarat,349,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-05,2025-06-21,Tier-1,Rajasthan,437,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-25,2025-08-08,Tier-2,Rajasthan,215,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-16,2025-06-29,Tier-3,Rajasthan,11,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-27,2025-07-10,Tier-1,Uttar Pradesh,831,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-04,2025-07-01,Tier-2,Uttar Pradesh,739,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-20,2025-07-02,Tier-3,Uttar Pradesh,211,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-28,2025-06-20,Tier-1,Kerala,872,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-16,2025-06-09,Tier-2,Kerala,465,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-06-19,2025-07-21,Tier-3,Kerala,261,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-07,2025-06-06,Tier-1,Telangana,729,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-19,2025-06-15,Tier-2,Telangana,888,4.12
+Fresh Red Apples 1kg,fresh fruits,120.0,2025-05-11,2025-06-13,Tier-3,Telangana,931,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-08,2025-07-16,Tier-1,Maharashtra,24,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-19,2025-05-29,Tier-2,Maharashtra,866,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-26,2025-07-14,Tier-3,Maharashtra,353,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-07-02,2025-07-19,Tier-1,Delhi,481,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-22,2025-07-18,Tier-2,Delhi,401,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-29,2025-07-12,Tier-3,Delhi,298,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-05,2025-05-19,Tier-1,Karnataka,499,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-25,2025-07-01,Tier-2,Karnataka,144,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-24,2025-07-11,Tier-3,Karnataka,789,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-30,2025-07-11,Tier-1,Tamil Nadu,57,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-09,2025-06-10,Tier-2,Tamil Nadu,583,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-09,2025-07-23,Tier-3,Tamil Nadu,693,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-24,2025-06-24,Tier-1,West Bengal,996,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-29,2025-06-08,Tier-2,West Bengal,748,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-27,2025-06-19,Tier-3,West Bengal,652,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-07-02,2025-07-16,Tier-1,Gujarat,227,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-09,2025-06-01,Tier-2,Gujarat,880,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-06,2025-06-24,Tier-3,Gujarat,216,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-18,2025-07-23,Tier-1,Rajasthan,563,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-04,2025-05-26,Tier-2,Rajasthan,700,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-01,2025-07-12,Tier-3,Rajasthan,909,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-03,2025-07-05,Tier-1,Uttar Pradesh,240,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-19,2025-06-12,Tier-2,Uttar Pradesh,180,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-04,2025-06-26,Tier-3,Uttar Pradesh,169,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-26,2025-07-27,Tier-1,Kerala,805,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-07-01,2025-07-16,Tier-2,Kerala,805,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-05,2025-07-04,Tier-3,Kerala,807,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-06-22,2025-07-29,Tier-1,Telangana,482,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-25,2025-07-06,Tier-2,Telangana,394,4.12
+Fresh Spinach Bunch,fresh vegetables,40.0,2025-05-07,2025-06-12,Tier-3,Telangana,967,4.12
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-07,2025-05-29,Tier-1,Maharashtra,754,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-30,2025-07-15,Tier-2,Maharashtra,465,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-06,2025-06-24,Tier-3,Maharashtra,327,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-27,2025-07-08,Tier-1,Delhi,828,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-22,2025-06-24,Tier-2,Delhi,984,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-05,2025-06-15,Tier-3,Delhi,617,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-09,2025-06-30,Tier-1,Karnataka,519,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-25,2025-06-05,Tier-2,Karnataka,396,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-15,2025-06-10,Tier-3,Karnataka,708,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-15,2025-05-26,Tier-1,Tamil Nadu,651,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-05,2025-07-07,Tier-2,Tamil Nadu,745,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-31,2025-06-10,Tier-3,Tamil Nadu,412,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-07-01,2025-08-05,Tier-1,West Bengal,681,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-27,2025-08-07,Tier-2,West Bengal,256,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-29,2025-07-19,Tier-3,West Bengal,193,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-05,2025-05-31,Tier-1,Gujarat,776,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-26,2025-06-28,Tier-2,Gujarat,846,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-12,2025-06-24,Tier-3,Gujarat,207,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-11,2025-07-01,Tier-1,Rajasthan,520,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-16,2025-06-10,Tier-2,Rajasthan,618,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-24,2025-07-09,Tier-3,Rajasthan,473,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-04,2025-06-16,Tier-1,Uttar Pradesh,669,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-04,2025-06-01,Tier-2,Uttar Pradesh,355,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-30,2025-07-28,Tier-3,Uttar Pradesh,157,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-01,2025-06-17,Tier-1,Kerala,829,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-23,2025-07-04,Tier-2,Kerala,945,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-25,2025-06-21,Tier-3,Kerala,881,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-07-02,2025-07-22,Tier-1,Telangana,997,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-05-07,2025-06-10,Tier-2,Telangana,955,2.25
+Lays Classic Salted Chips 100g,packaged snacks,20.0,2025-06-10,2025-07-20,Tier-3,Telangana,999,2.25
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-22,2025-07-05,Tier-1,Maharashtra,272,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-04,2025-05-29,Tier-2,Maharashtra,355,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-16,2025-05-27,Tier-3,Maharashtra,906,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-16,2025-06-06,Tier-1,Delhi,462,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-27,2025-07-07,Tier-2,Delhi,18,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-23,2025-07-06,Tier-3,Delhi,668,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-16,2025-06-10,Tier-1,Karnataka,140,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-13,2025-07-16,Tier-2,Karnataka,63,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-08,2025-06-19,Tier-3,Karnataka,929,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-12,2025-06-01,Tier-1,Tamil Nadu,634,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-25,2025-07-24,Tier-2,Tamil Nadu,263,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-29,2025-07-02,Tier-3,Tamil Nadu,108,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-08,2025-07-16,Tier-1,West Bengal,923,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-18,2025-06-14,Tier-2,West Bengal,715,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-10,2025-06-23,Tier-3,West Bengal,729,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-23,2025-07-04,Tier-1,Gujarat,589,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-31,2025-06-23,Tier-2,Gujarat,286,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-16,2025-06-14,Tier-3,Gujarat,513,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-25,2025-07-11,Tier-1,Rajasthan,204,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-16,2025-07-28,Tier-2,Rajasthan,697,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-21,2025-07-22,Tier-3,Rajasthan,384,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-11,2025-07-20,Tier-1,Uttar Pradesh,47,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-26,2025-06-12,Tier-2,Uttar Pradesh,292,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-06,2025-07-19,Tier-3,Uttar Pradesh,286,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-03,2025-07-15,Tier-1,Kerala,293,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-17,2025-06-28,Tier-2,Kerala,462,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-04,2025-06-01,Tier-3,Kerala,525,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-29,2025-06-24,Tier-1,Telangana,181,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-06-05,2025-07-14,Tier-2,Telangana,486,2.62
+Amul Full Cream Milk 1L,dairy,65.0,2025-05-18,2025-06-02,Tier-3,Telangana,108,2.62
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-04,2025-06-06,Tier-1,Maharashtra,358,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-15,2025-06-24,Tier-2,Maharashtra,108,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-04,2025-06-15,Tier-3,Maharashtra,125,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-12,2025-07-23,Tier-1,Delhi,992,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-31,2025-06-12,Tier-2,Delhi,137,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-15,2025-07-19,Tier-3,Delhi,744,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-10,2025-05-22,Tier-1,Karnataka,881,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-18,2025-06-20,Tier-2,Karnataka,635,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-01,2025-07-02,Tier-3,Karnataka,672,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-07-01,2025-08-06,Tier-1,Tamil Nadu,499,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-07-01,2025-08-05,Tier-2,Tamil Nadu,794,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-24,2025-07-05,Tier-3,Tamil Nadu,402,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-21,2025-06-28,Tier-1,West Bengal,691,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-09,2025-06-13,Tier-2,West Bengal,876,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-14,2025-06-17,Tier-3,West Bengal,417,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-20,2025-07-06,Tier-1,Gujarat,834,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-28,2025-06-26,Tier-2,Gujarat,330,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-25,2025-07-20,Tier-3,Gujarat,663,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-21,2025-07-23,Tier-1,Rajasthan,152,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-05,2025-07-18,Tier-2,Rajasthan,843,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-01,2025-07-03,Tier-3,Rajasthan,968,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-11,2025-07-15,Tier-1,Uttar Pradesh,707,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-11,2025-07-12,Tier-2,Uttar Pradesh,314,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-12,2025-05-27,Tier-3,Uttar Pradesh,792,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-10,2025-06-21,Tier-1,Kerala,273,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-11,2025-05-25,Tier-2,Kerala,112,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-29,2025-07-14,Tier-3,Kerala,886,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-06-01,2025-07-10,Tier-1,Telangana,56,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-29,2025-06-23,Tier-2,Telangana,278,2.38
+Fresho Frozen Sweet Corn 500g,frozen foods,90.0,2025-05-14,2025-06-22,Tier-3,Telangana,668,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-16,2025-07-14,Tier-1,Maharashtra,613,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-06,2025-06-10,Tier-2,Maharashtra,750,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-07,2025-07-09,Tier-3,Maharashtra,136,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-24,2025-07-15,Tier-1,Delhi,650,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-06,2025-05-16,Tier-2,Delhi,760,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-30,2025-07-10,Tier-3,Delhi,647,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-10,2025-06-13,Tier-1,Karnataka,497,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-19,2025-05-29,Tier-2,Karnataka,281,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-25,2025-06-08,Tier-3,Karnataka,799,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-04,2025-06-16,Tier-1,Tamil Nadu,85,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-07,2025-07-02,Tier-2,Tamil Nadu,444,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-27,2025-06-27,Tier-3,Tamil Nadu,706,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-04,2025-06-27,Tier-1,West Bengal,229,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-28,2025-08-06,Tier-2,West Bengal,759,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-12,2025-05-26,Tier-3,West Bengal,213,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-17,2025-07-22,Tier-1,Gujarat,483,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-16,2025-06-15,Tier-2,Gujarat,560,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-28,2025-07-09,Tier-3,Gujarat,263,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-03,2025-07-05,Tier-1,Rajasthan,771,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-23,2025-07-07,Tier-2,Rajasthan,109,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-30,2025-07-09,Tier-3,Rajasthan,915,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-06,2025-06-03,Tier-1,Uttar Pradesh,451,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-01,2025-06-11,Tier-2,Uttar Pradesh,334,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-19,2025-06-01,Tier-3,Uttar Pradesh,25,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-09,2025-07-04,Tier-1,Kerala,768,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-07-01,2025-08-07,Tier-2,Kerala,905,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-01,2025-07-07,Tier-3,Kerala,861,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-06-09,2025-06-30,Tier-1,Telangana,699,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-29,2025-07-10,Tier-2,Telangana,938,2.38
+Tata Tea Gold 250g,beverages,115.0,2025-05-13,2025-06-03,Tier-3,Telangana,844,2.38
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-07-02,2025-08-13,Tier-1,Maharashtra,177,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-23,2025-07-31,Tier-2,Maharashtra,406,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-21,2025-07-31,Tier-3,Maharashtra,311,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-07-01,2025-08-14,Tier-1,Delhi,736,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-16,2025-07-21,Tier-2,Delhi,785,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-04,2025-07-09,Tier-3,Delhi,979,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-07,2025-07-20,Tier-1,Karnataka,124,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-23,2025-06-08,Tier-2,Karnataka,205,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-06,2025-05-26,Tier-3,Karnataka,422,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-08,2025-06-11,Tier-1,Tamil Nadu,286,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-07,2025-05-26,Tier-2,Tamil Nadu,878,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-24,2025-07-27,Tier-3,Tamil Nadu,201,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-29,2025-07-12,Tier-1,West Bengal,557,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-15,2025-07-26,Tier-2,West Bengal,673,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-10,2025-07-21,Tier-3,West Bengal,46,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-21,2025-07-13,Tier-1,Gujarat,288,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-08,2025-07-22,Tier-2,Gujarat,882,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-03,2025-06-29,Tier-3,Gujarat,890,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-13,2025-07-17,Tier-1,Rajasthan,351,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-20,2025-07-18,Tier-2,Rajasthan,186,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-28,2025-06-18,Tier-3,Rajasthan,454,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-23,2025-06-20,Tier-1,Uttar Pradesh,85,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-24,2025-07-10,Tier-2,Uttar Pradesh,805,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-19,2025-07-29,Tier-3,Uttar Pradesh,393,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-12,2025-06-09,Tier-1,Kerala,515,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-17,2025-06-11,Tier-2,Kerala,894,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-28,2025-08-11,Tier-3,Kerala,405,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-06-08,2025-07-08,Tier-1,Telangana,493,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-11,2025-06-12,Tier-2,Telangana,153,2.0
+Nivea Soft Moisturizer 100ml,skincare,120.0,2025-05-07,2025-05-30,Tier-3,Telangana,232,2.0
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-06,2025-05-20,Tier-1,Maharashtra,172,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-10,2025-07-18,Tier-2,Maharashtra,244,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-22,2025-07-19,Tier-3,Maharashtra,760,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-21,2025-07-09,Tier-1,Delhi,83,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-06,2025-06-01,Tier-2,Delhi,262,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-26,2025-06-11,Tier-3,Delhi,183,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-20,2025-07-08,Tier-1,Karnataka,955,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-06,2025-06-17,Tier-2,Karnataka,526,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-04,2025-07-02,Tier-3,Karnataka,657,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-16,2025-05-26,Tier-1,Tamil Nadu,351,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-12,2025-06-07,Tier-2,Tamil Nadu,520,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-26,2025-07-30,Tier-3,Tamil Nadu,310,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-29,2025-07-14,Tier-1,West Bengal,261,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-02,2025-06-30,Tier-2,West Bengal,454,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-20,2025-06-25,Tier-3,West Bengal,723,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-07,2025-07-05,Tier-1,Gujarat,48,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-30,2025-07-22,Tier-2,Gujarat,763,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-05,2025-07-04,Tier-3,Gujarat,485,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-25,2025-07-05,Tier-1,Rajasthan,396,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-20,2025-07-27,Tier-2,Rajasthan,199,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-07,2025-06-10,Tier-3,Rajasthan,833,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-31,2025-06-15,Tier-1,Uttar Pradesh,67,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-20,2025-06-30,Tier-2,Uttar Pradesh,182,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-17,2025-06-16,Tier-3,Uttar Pradesh,89,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-10,2025-06-09,Tier-1,Kerala,212,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-04,2025-06-17,Tier-2,Kerala,668,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-13,2025-07-10,Tier-3,Kerala,56,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-23,2025-06-15,Tier-1,Telangana,152,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-06-02,2025-06-12,Tier-2,Telangana,382,2.75
+Dove Hair Fall Rescue Shampoo 340ml,haircare,250.0,2025-05-10,2025-05-22,Tier-3,Telangana,665,2.75
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-10,2025-06-30,Tier-1,Maharashtra,21,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-23,2025-08-03,Tier-2,Maharashtra,793,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-25,2025-07-16,Tier-3,Maharashtra,417,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-05,2025-06-22,Tier-1,Delhi,131,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-05,2025-07-10,Tier-2,Delhi,657,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-06,2025-06-12,Tier-3,Delhi,741,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-27,2025-07-02,Tier-1,Karnataka,511,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-16,2025-07-04,Tier-2,Karnataka,938,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-11,2025-06-09,Tier-3,Karnataka,470,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-05,2025-07-13,Tier-1,Tamil Nadu,918,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-18,2025-07-01,Tier-2,Tamil Nadu,262,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-27,2025-07-24,Tier-3,Tamil Nadu,892,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-28,2025-08-01,Tier-1,West Bengal,459,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-23,2025-08-01,Tier-2,West Bengal,251,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-05,2025-05-19,Tier-3,West Bengal,128,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-08,2025-06-19,Tier-1,Gujarat,383,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-07-02,2025-07-29,Tier-2,Gujarat,233,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-17,2025-06-06,Tier-3,Gujarat,862,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-07,2025-07-11,Tier-1,Rajasthan,863,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-05,2025-06-10,Tier-2,Rajasthan,698,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-20,2025-08-01,Tier-3,Rajasthan,619,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-23,2025-07-06,Tier-1,Uttar Pradesh,520,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-07-02,2025-08-01,Tier-2,Uttar Pradesh,832,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-27,2025-08-03,Tier-3,Uttar Pradesh,986,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-28,2025-08-07,Tier-1,Kerala,654,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-05-26,2025-06-07,Tier-2,Kerala,446,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-10,2025-06-29,Tier-3,Kerala,467,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-14,2025-07-10,Tier-1,Telangana,94,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-06-19,2025-07-07,Tier-2,Telangana,887,3.5
+Dettol Original Bathing Soap 125g,bath & body,45.0,2025-07-02,2025-07-24,Tier-3,Telangana,781,3.5
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-07-02,2025-08-12,Tier-1,Maharashtra,43,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-05,2025-07-15,Tier-2,Maharashtra,81,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-25,2025-06-29,Tier-3,Maharashtra,259,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-30,2025-06-11,Tier-1,Delhi,900,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-14,2025-06-04,Tier-2,Delhi,970,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-10,2025-05-24,Tier-3,Delhi,999,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-03,2025-06-29,Tier-1,Karnataka,633,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-17,2025-06-18,Tier-2,Karnataka,216,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-27,2025-06-26,Tier-3,Karnataka,919,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-07-01,2025-07-21,Tier-1,Tamil Nadu,444,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-25,2025-07-07,Tier-2,Tamil Nadu,815,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-14,2025-06-26,Tier-3,Tamil Nadu,859,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-03,2025-06-27,Tier-1,West Bengal,868,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-13,2025-06-25,Tier-2,West Bengal,317,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-07,2025-06-18,Tier-3,West Bengal,993,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-18,2025-07-27,Tier-1,Gujarat,768,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-22,2025-06-17,Tier-2,Gujarat,142,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-04,2025-06-17,Tier-3,Gujarat,147,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-08,2025-06-03,Tier-1,Rajasthan,339,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-16,2025-07-15,Tier-2,Rajasthan,993,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-28,2025-08-10,Tier-3,Rajasthan,783,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-11,2025-05-22,Tier-1,Uttar Pradesh,214,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-21,2025-06-10,Tier-2,Uttar Pradesh,892,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-17,2025-06-18,Tier-3,Uttar Pradesh,192,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-17,2025-07-27,Tier-1,Kerala,980,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-05-10,2025-06-04,Tier-2,Kerala,529,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-29,2025-07-12,Tier-3,Kerala,705,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-08,2025-06-20,Tier-1,Telangana,873,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-30,2025-08-05,Tier-2,Telangana,102,2.0
+Colgate MaxFresh Toothpaste 150g,oral care,90.0,2025-06-01,2025-06-29,Tier-3,Telangana,798,2.0
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-28,2025-07-25,Tier-1,Maharashtra,613,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-22,2025-06-22,Tier-2,Maharashtra,414,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-27,2025-07-07,Tier-3,Maharashtra,654,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-23,2025-06-13,Tier-1,Delhi,355,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-18,2025-06-30,Tier-2,Delhi,954,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-19,2025-07-24,Tier-3,Delhi,822,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-06,2025-06-24,Tier-1,Karnataka,803,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-07,2025-06-07,Tier-2,Karnataka,248,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-08,2025-06-16,Tier-3,Karnataka,116,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-16,2025-06-11,Tier-1,Tamil Nadu,35,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-28,2025-06-07,Tier-2,Tamil Nadu,17,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-15,2025-06-28,Tier-3,Tamil Nadu,262,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-12,2025-06-05,Tier-1,West Bengal,312,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-08,2025-06-08,Tier-2,West Bengal,535,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-07,2025-07-14,Tier-3,West Bengal,992,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-19,2025-07-22,Tier-1,Gujarat,395,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-19,2025-06-23,Tier-2,Gujarat,535,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-05,2025-05-21,Tier-3,Gujarat,12,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-17,2025-06-18,Tier-1,Rajasthan,759,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-21,2025-06-17,Tier-2,Rajasthan,515,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-26,2025-07-09,Tier-3,Rajasthan,892,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-18,2025-07-22,Tier-1,Uttar Pradesh,640,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-27,2025-07-03,Tier-2,Uttar Pradesh,723,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-25,2025-06-20,Tier-3,Uttar Pradesh,240,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-11,2025-07-16,Tier-1,Kerala,135,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-20,2025-06-23,Tier-2,Kerala,154,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-20,2025-07-19,Tier-3,Kerala,34,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-06-29,2025-07-18,Tier-1,Telangana,76,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-23,2025-06-19,Tier-2,Telangana,120,2.75
+Stayfree Secure XL 20 pads,sanitary products,110.0,2025-05-28,2025-06-28,Tier-3,Telangana,43,2.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-17,2025-06-03,Tier-1,Maharashtra,945,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-15,2025-06-12,Tier-2,Maharashtra,563,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-23,2025-06-07,Tier-3,Maharashtra,701,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-07,2025-07-20,Tier-1,Delhi,452,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-08,2025-05-23,Tier-2,Delhi,750,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-07,2025-06-18,Tier-3,Delhi,446,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-11,2025-07-11,Tier-1,Karnataka,719,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-27,2025-07-10,Tier-2,Karnataka,359,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-22,2025-07-31,Tier-3,Karnataka,616,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-09,2025-06-27,Tier-1,Tamil Nadu,768,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-30,2025-08-09,Tier-2,Tamil Nadu,49,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-27,2025-06-29,Tier-3,Tamil Nadu,232,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-27,2025-07-08,Tier-1,West Bengal,477,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-05,2025-06-25,Tier-2,West Bengal,13,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-18,2025-07-03,Tier-3,West Bengal,127,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-15,2025-06-23,Tier-1,Gujarat,513,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-26,2025-06-06,Tier-2,Gujarat,856,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-22,2025-07-09,Tier-3,Gujarat,35,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-13,2025-05-27,Tier-1,Rajasthan,335,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-07,2025-06-20,Tier-2,Rajasthan,796,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-13,2025-07-25,Tier-3,Rajasthan,541,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-15,2025-06-05,Tier-1,Uttar Pradesh,568,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-07-02,2025-08-06,Tier-2,Uttar Pradesh,663,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-26,2025-06-15,Tier-3,Uttar Pradesh,520,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-28,2025-06-19,Tier-1,Kerala,268,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-31,2025-06-15,Tier-2,Kerala,699,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-05-08,2025-05-27,Tier-3,Kerala,270,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-06-10,2025-06-29,Tier-1,Telangana,181,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-07-01,2025-07-23,Tier-2,Telangana,177,1.75
+Surf Excel Matic Top Load 2kg,laundry detergents,370.0,2025-07-01,2025-07-30,Tier-3,Telangana,330,1.75
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-27,2025-06-14,Tier-1,Maharashtra,794,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-24,2025-07-14,Tier-2,Maharashtra,920,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-09,2025-07-23,Tier-3,Maharashtra,615,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-02,2025-06-16,Tier-1,Delhi,327,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-04,2025-05-27,Tier-2,Delhi,894,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-08,2025-05-28,Tier-3,Delhi,146,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-30,2025-06-20,Tier-1,Karnataka,556,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-07-02,2025-08-02,Tier-2,Karnataka,581,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-04,2025-06-21,Tier-3,Karnataka,788,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-23,2025-06-15,Tier-1,Tamil Nadu,837,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-03,2025-07-17,Tier-2,Tamil Nadu,734,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-27,2025-06-10,Tier-3,Tamil Nadu,860,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-05,2025-05-28,Tier-1,West Bengal,419,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-29,2025-08-02,Tier-2,West Bengal,758,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-22,2025-06-25,Tier-3,West Bengal,411,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-24,2025-06-10,Tier-1,Gujarat,304,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-24,2025-06-16,Tier-2,Gujarat,809,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-13,2025-06-24,Tier-3,Gujarat,32,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-18,2025-07-30,Tier-1,Rajasthan,674,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-16,2025-07-28,Tier-2,Rajasthan,512,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-07-01,2025-07-24,Tier-3,Rajasthan,830,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-24,2025-06-08,Tier-1,Uttar Pradesh,655,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-30,2025-07-16,Tier-2,Uttar Pradesh,188,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-25,2025-07-19,Tier-3,Uttar Pradesh,632,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-04,2025-07-16,Tier-1,Kerala,487,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-25,2025-06-30,Tier-2,Kerala,429,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-04,2025-07-16,Tier-3,Kerala,420,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-05-09,2025-06-20,Tier-1,Telangana,263,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-29,2025-07-30,Tier-2,Telangana,843,1.5
+Vim Dishwash Gel 500ml,dishwashing liquids,95.0,2025-06-23,2025-07-07,Tier-3,Telangana,644,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-23,2025-08-04,Tier-1,Maharashtra,127,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-26,2025-06-17,Tier-2,Maharashtra,168,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-17,2025-06-19,Tier-3,Maharashtra,957,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-08,2025-06-01,Tier-1,Delhi,166,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-25,2025-07-09,Tier-2,Delhi,166,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-17,2025-05-30,Tier-3,Delhi,853,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-19,2025-05-30,Tier-1,Karnataka,420,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-02,2025-07-07,Tier-2,Karnataka,820,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-06,2025-06-20,Tier-3,Karnataka,669,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-22,2025-07-11,Tier-1,Tamil Nadu,881,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-26,2025-06-10,Tier-2,Tamil Nadu,721,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-10,2025-07-15,Tier-3,Tamil Nadu,311,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-21,2025-06-11,Tier-1,West Bengal,227,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-20,2025-07-17,Tier-2,West Bengal,994,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-31,2025-06-21,Tier-3,West Bengal,365,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-16,2025-05-29,Tier-1,Gujarat,142,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-08,2025-05-25,Tier-2,Gujarat,136,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-22,2025-06-28,Tier-3,Gujarat,808,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-06,2025-05-24,Tier-1,Rajasthan,60,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-04,2025-06-27,Tier-2,Rajasthan,305,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-23,2025-06-23,Tier-3,Rajasthan,788,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-10,2025-06-20,Tier-1,Uttar Pradesh,823,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-27,2025-06-26,Tier-2,Uttar Pradesh,355,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-18,2025-06-19,Tier-3,Uttar Pradesh,834,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-07-02,2025-07-26,Tier-1,Kerala,670,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-17,2025-06-04,Tier-2,Kerala,318,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-24,2025-07-13,Tier-3,Kerala,445,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-07,2025-06-11,Tier-1,Telangana,946,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-05-29,2025-07-02,Tier-2,Telangana,611,1.5
+Lizol Floral Floor Cleaner 1L,floor cleaners,185.0,2025-06-22,2025-07-03,Tier-3,Telangana,912,1.5
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-15,2025-07-21,Tier-1,Maharashtra,427,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-06,2025-07-02,Tier-2,Maharashtra,649,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-21,2025-06-23,Tier-3,Maharashtra,34,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-26,2025-07-11,Tier-1,Delhi,510,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-09,2025-07-21,Tier-2,Delhi,186,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-04,2025-07-05,Tier-3,Delhi,675,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-05,2025-07-05,Tier-1,Karnataka,58,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-26,2025-07-22,Tier-2,Karnataka,93,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-23,2025-06-21,Tier-3,Karnataka,639,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-11,2025-07-18,Tier-1,Tamil Nadu,72,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-24,2025-06-09,Tier-2,Tamil Nadu,778,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-01,2025-06-23,Tier-3,Tamil Nadu,999,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-10,2025-07-08,Tier-1,West Bengal,327,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-01,2025-07-10,Tier-2,West Bengal,294,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-15,2025-06-22,Tier-3,West Bengal,295,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-17,2025-07-15,Tier-1,Gujarat,27,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-07-02,2025-07-25,Tier-2,Gujarat,380,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-17,2025-05-28,Tier-3,Gujarat,511,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-05,2025-07-14,Tier-1,Rajasthan,687,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-13,2025-05-26,Tier-2,Rajasthan,906,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-25,2025-08-02,Tier-3,Rajasthan,64,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-25,2025-06-06,Tier-1,Uttar Pradesh,809,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-23,2025-07-12,Tier-2,Uttar Pradesh,988,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-18,2025-06-30,Tier-3,Uttar Pradesh,389,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-31,2025-07-02,Tier-1,Kerala,64,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-05,2025-07-16,Tier-2,Kerala,187,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-26,2025-08-03,Tier-3,Kerala,17,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-07-02,2025-07-14,Tier-1,Telangana,993,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-06-10,2025-06-27,Tier-2,Telangana,63,2.88
+Odonil Air Freshener Block 50g,air fresheners,55.0,2025-05-07,2025-05-19,Tier-3,Telangana,60,2.88
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-31,2025-07-07,Tier-1,Maharashtra,273,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-30,2025-07-13,Tier-2,Maharashtra,105,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-09,2025-07-02,Tier-3,Maharashtra,297,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-08,2025-06-02,Tier-1,Delhi,461,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-12,2025-06-11,Tier-2,Delhi,919,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-02,2025-06-29,Tier-3,Delhi,16,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-23,2025-07-09,Tier-1,Karnataka,682,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-10,2025-07-10,Tier-2,Karnataka,156,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-16,2025-06-13,Tier-3,Karnataka,557,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-04,2025-07-01,Tier-1,Tamil Nadu,523,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-07-02,2025-07-16,Tier-2,Tamil Nadu,925,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-22,2025-07-03,Tier-3,Tamil Nadu,716,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-10,2025-07-01,Tier-1,West Bengal,541,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-28,2025-08-06,Tier-2,West Bengal,914,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-30,2025-07-13,Tier-3,West Bengal,509,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-06,2025-06-06,Tier-1,Gujarat,373,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-09,2025-07-05,Tier-2,Gujarat,723,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-03,2025-07-05,Tier-3,Gujarat,137,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-01,2025-06-27,Tier-1,Rajasthan,891,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-13,2025-06-08,Tier-2,Rajasthan,535,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-24,2025-07-05,Tier-3,Rajasthan,246,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-08,2025-06-26,Tier-1,Uttar Pradesh,767,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-11,2025-06-24,Tier-2,Uttar Pradesh,675,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-06,2025-06-13,Tier-3,Uttar Pradesh,118,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-30,2025-07-01,Tier-1,Kerala,814,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-22,2025-07-07,Tier-2,Kerala,155,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-12,2025-07-25,Tier-3,Kerala,26,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-27,2025-06-30,Tier-1,Telangana,387,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-06-21,2025-07-23,Tier-2,Telangana,638,1.12
+Maggi 2-Minute Noodles 70g,instant noodles,14.0,2025-05-22,2025-06-22,Tier-3,Telangana,990,1.12
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-06,2025-07-16,Tier-1,Maharashtra,655,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-06,2025-07-19,Tier-2,Maharashtra,277,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-19,2025-06-04,Tier-3,Maharashtra,915,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-19,2025-06-14,Tier-1,Delhi,931,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-12,2025-07-19,Tier-2,Delhi,711,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-06,2025-05-17,Tier-3,Delhi,831,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-21,2025-05-31,Tier-1,Karnataka,828,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-11,2025-06-15,Tier-2,Karnataka,38,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-12,2025-07-02,Tier-3,Karnataka,305,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-22,2025-08-05,Tier-1,Tamil Nadu,319,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-30,2025-07-02,Tier-2,Tamil Nadu,767,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-11,2025-06-25,Tier-3,Tamil Nadu,321,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-31,2025-06-29,Tier-1,West Bengal,476,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-29,2025-06-24,Tier-2,West Bengal,967,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-05,2025-06-17,Tier-3,West Bengal,210,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-07,2025-06-18,Tier-1,Gujarat,510,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-24,2025-07-12,Tier-2,Gujarat,305,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-16,2025-06-26,Tier-3,Gujarat,226,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-21,2025-06-24,Tier-1,Rajasthan,48,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-29,2025-06-10,Tier-2,Rajasthan,507,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-27,2025-07-05,Tier-3,Rajasthan,111,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-30,2025-06-20,Tier-1,Uttar Pradesh,284,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-27,2025-06-22,Tier-2,Uttar Pradesh,339,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-07,2025-05-28,Tier-3,Uttar Pradesh,327,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-17,2025-07-20,Tier-1,Kerala,348,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-25,2025-08-04,Tier-2,Kerala,670,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-16,2025-07-18,Tier-3,Kerala,494,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-05-10,2025-06-04,Tier-1,Telangana,719,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-25,2025-07-29,Tier-2,Telangana,475,2.25
+Fortune Sunflower Oil 1L,cooking oil,135.0,2025-06-08,2025-06-29,Tier-3,Telangana,664,2.25
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-05,2025-06-09,Tier-1,Maharashtra,498,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-19,2025-06-23,Tier-2,Maharashtra,56,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-01,2025-06-20,Tier-3,Maharashtra,25,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-26,2025-07-22,Tier-1,Delhi,928,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-07,2025-07-07,Tier-2,Delhi,95,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-06,2025-05-22,Tier-3,Delhi,791,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-18,2025-07-04,Tier-1,Karnataka,146,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-13,2025-05-30,Tier-2,Karnataka,507,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-05,2025-06-06,Tier-3,Karnataka,486,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-15,2025-07-25,Tier-1,Tamil Nadu,999,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-12,2025-06-25,Tier-2,Tamil Nadu,411,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-05,2025-05-31,Tier-3,Tamil Nadu,535,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-02,2025-07-05,Tier-1,West Bengal,629,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-04,2025-06-16,Tier-2,West Bengal,140,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-27,2025-07-01,Tier-3,West Bengal,192,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-10,2025-07-04,Tier-1,Gujarat,897,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-15,2025-05-28,Tier-2,Gujarat,358,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-11,2025-07-15,Tier-3,Gujarat,406,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-15,2025-07-27,Tier-1,Rajasthan,25,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-19,2025-05-30,Tier-2,Rajasthan,320,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-29,2025-07-11,Tier-3,Rajasthan,423,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-05,2025-05-27,Tier-1,Uttar Pradesh,150,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-15,2025-07-26,Tier-2,Uttar Pradesh,617,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-29,2025-07-06,Tier-3,Uttar Pradesh,967,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-15,2025-06-22,Tier-1,Kerala,327,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-11,2025-06-05,Tier-2,Kerala,449,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-05-20,2025-06-08,Tier-3,Kerala,935,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-08,2025-07-07,Tier-1,Telangana,398,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-07-02,2025-08-10,Tier-2,Telangana,698,2.38
+Everest Red Chilli Powder 100g,spices & condiments,60.0,2025-06-30,2025-07-23,Tier-3,Telangana,385,2.38
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-03,2025-06-16,Tier-1,Maharashtra,155,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-27,2025-06-30,Tier-2,Maharashtra,441,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-07-02,2025-07-26,Tier-3,Maharashtra,594,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-18,2025-07-21,Tier-1,Delhi,973,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-21,2025-07-06,Tier-2,Delhi,816,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-08,2025-06-10,Tier-3,Delhi,20,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-20,2025-08-02,Tier-1,Karnataka,162,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-26,2025-07-09,Tier-2,Karnataka,580,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-25,2025-07-24,Tier-3,Karnataka,870,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-10,2025-05-29,Tier-1,Tamil Nadu,116,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-30,2025-07-04,Tier-2,Tamil Nadu,946,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-15,2025-05-27,Tier-3,Tamil Nadu,897,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-27,2025-07-11,Tier-1,West Bengal,782,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-10,2025-06-11,Tier-2,West Bengal,698,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-24,2025-08-07,Tier-3,West Bengal,29,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-06,2025-06-19,Tier-1,Gujarat,699,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-15,2025-07-11,Tier-2,Gujarat,225,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-30,2025-08-10,Tier-3,Gujarat,748,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-26,2025-06-17,Tier-1,Rajasthan,129,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-17,2025-06-20,Tier-2,Rajasthan,338,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-29,2025-07-22,Tier-3,Rajasthan,366,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-30,2025-06-19,Tier-1,Uttar Pradesh,626,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-08,2025-05-20,Tier-2,Uttar Pradesh,644,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-05,2025-07-13,Tier-3,Uttar Pradesh,658,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-30,2025-08-03,Tier-1,Kerala,747,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-21,2025-07-09,Tier-2,Kerala,472,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-24,2025-06-27,Tier-3,Kerala,270,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-22,2025-08-04,Tier-1,Telangana,993,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-05-04,2025-05-28,Tier-2,Telangana,47,1.88
+Britannia Whole Wheat Bread 400g,biscuits & breads,45.0,2025-06-25,2025-07-09,Tier-3,Telangana,185,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-07,2025-07-04,Tier-1,Maharashtra,463,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-27,2025-06-18,Tier-2,Maharashtra,805,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-28,2025-07-20,Tier-3,Maharashtra,602,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-14,2025-06-24,Tier-1,Delhi,327,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-04,2025-06-16,Tier-2,Delhi,577,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-24,2025-07-06,Tier-3,Delhi,49,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-06,2025-06-28,Tier-1,Karnataka,758,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-31,2025-06-15,Tier-2,Karnataka,225,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-14,2025-07-09,Tier-3,Karnataka,177,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-05,2025-07-17,Tier-1,Tamil Nadu,580,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-05,2025-05-27,Tier-2,Tamil Nadu,372,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-19,2025-06-22,Tier-3,Tamil Nadu,702,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-22,2025-06-27,Tier-1,West Bengal,431,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-04,2025-05-20,Tier-2,West Bengal,142,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-21,2025-06-30,Tier-3,West Bengal,544,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-22,2025-06-10,Tier-1,Gujarat,681,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-21,2025-06-29,Tier-2,Gujarat,560,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-02,2025-06-29,Tier-3,Gujarat,365,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-07-01,2025-07-24,Tier-1,Rajasthan,598,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-04,2025-06-25,Tier-2,Rajasthan,304,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-07-01,2025-08-11,Tier-3,Rajasthan,534,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-18,2025-06-23,Tier-1,Uttar Pradesh,122,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-23,2025-06-18,Tier-2,Uttar Pradesh,369,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-02,2025-07-15,Tier-3,Uttar Pradesh,709,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-09,2025-07-23,Tier-1,Kerala,335,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-14,2025-07-23,Tier-2,Kerala,464,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-23,2025-08-03,Tier-3,Kerala,840,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-05,2025-06-29,Tier-1,Telangana,231,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-05-27,2025-07-04,Tier-2,Telangana,287,1.88
+Boat Rockerz Wireless Earbuds,headphones / earbuds,1899.0,2025-06-29,2025-07-28,Tier-3,Telangana,873,1.88
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-28,2025-06-10,Tier-1,Maharashtra,740,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-16,2025-07-07,Tier-2,Maharashtra,927,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-16,2025-07-05,Tier-3,Maharashtra,895,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-07-02,2025-08-02,Tier-1,Delhi,483,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-08,2025-06-04,Tier-2,Delhi,315,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-19,2025-07-27,Tier-3,Delhi,725,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-28,2025-07-11,Tier-1,Karnataka,957,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-21,2025-07-07,Tier-2,Karnataka,38,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-22,2025-08-03,Tier-3,Karnataka,655,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-17,2025-06-10,Tier-1,Tamil Nadu,937,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-13,2025-06-02,Tier-2,Tamil Nadu,579,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-10,2025-07-15,Tier-3,Tamil Nadu,491,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-18,2025-06-30,Tier-1,West Bengal,294,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-29,2025-07-25,Tier-2,West Bengal,108,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-20,2025-07-14,Tier-3,West Bengal,896,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-04,2025-07-12,Tier-1,Gujarat,84,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-12,2025-06-22,Tier-2,Gujarat,139,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-17,2025-06-09,Tier-3,Gujarat,93,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-11,2025-07-01,Tier-1,Rajasthan,548,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-30,2025-07-26,Tier-2,Rajasthan,391,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-20,2025-06-26,Tier-3,Rajasthan,998,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-12,2025-07-07,Tier-1,Uttar Pradesh,878,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-05,2025-06-03,Tier-2,Uttar Pradesh,783,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-14,2025-06-28,Tier-3,Uttar Pradesh,396,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-05,2025-05-15,Tier-1,Kerala,579,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-04,2025-05-28,Tier-2,Kerala,171,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-29,2025-07-02,Tier-3,Kerala,801,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-21,2025-07-18,Tier-1,Telangana,280,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-05-20,2025-06-14,Tier-2,Telangana,548,2.12
+MI USB Type-C Charger,mobile accessories,599.0,2025-06-25,2025-07-29,Tier-3,Telangana,666,2.12
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-04,2025-06-21,Tier-1,Maharashtra,600,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-06,2025-06-22,Tier-2,Maharashtra,396,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-04,2025-07-07,Tier-3,Maharashtra,837,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-06,2025-05-18,Tier-1,Delhi,925,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-18,2025-06-11,Tier-2,Delhi,162,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-03,2025-06-26,Tier-3,Delhi,464,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-16,2025-07-15,Tier-1,Karnataka,749,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-24,2025-07-25,Tier-2,Karnataka,510,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-11,2025-05-22,Tier-3,Karnataka,353,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-25,2025-07-15,Tier-1,Tamil Nadu,73,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-20,2025-07-16,Tier-2,Tamil Nadu,81,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-12,2025-07-09,Tier-3,Tamil Nadu,999,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-15,2025-07-25,Tier-1,West Bengal,175,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-01,2025-06-21,Tier-2,West Bengal,310,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-08,2025-07-20,Tier-3,West Bengal,111,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-23,2025-06-09,Tier-1,Gujarat,788,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-11,2025-07-14,Tier-2,Gujarat,562,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-16,2025-07-07,Tier-3,Gujarat,898,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-18,2025-06-28,Tier-1,Rajasthan,472,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-17,2025-07-18,Tier-2,Rajasthan,101,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-13,2025-07-25,Tier-3,Rajasthan,723,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-24,2025-07-04,Tier-1,Uttar Pradesh,251,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-04,2025-06-15,Tier-2,Uttar Pradesh,11,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-31,2025-07-12,Tier-3,Uttar Pradesh,754,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-20,2025-07-29,Tier-1,Kerala,938,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-06-20,2025-07-25,Tier-2,Kerala,927,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-25,2025-06-05,Tier-3,Kerala,175,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-25,2025-06-29,Tier-1,Telangana,695,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-06,2025-05-30,Tier-2,Telangana,115,2.38
+Zebronics USB Keyboard,computer peripherals,499.0,2025-05-09,2025-05-29,Tier-3,Telangana,326,2.38
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-30,2025-07-15,Tier-1,Maharashtra,18,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-27,2025-07-15,Tier-2,Maharashtra,368,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-02,2025-07-13,Tier-3,Maharashtra,562,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-14,2025-06-04,Tier-1,Delhi,273,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-25,2025-08-01,Tier-2,Delhi,327,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-13,2025-06-29,Tier-3,Delhi,468,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-13,2025-07-08,Tier-1,Karnataka,909,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-27,2025-07-28,Tier-2,Karnataka,419,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-30,2025-07-23,Tier-3,Karnataka,980,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-15,2025-07-06,Tier-1,Tamil Nadu,96,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-21,2025-07-13,Tier-2,Tamil Nadu,546,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-19,2025-06-16,Tier-3,Tamil Nadu,576,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-18,2025-06-04,Tier-1,West Bengal,742,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-09,2025-06-19,Tier-2,West Bengal,316,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-20,2025-06-16,Tier-3,West Bengal,975,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-15,2025-07-13,Tier-1,Gujarat,671,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-27,2025-07-07,Tier-2,Gujarat,321,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-23,2025-06-04,Tier-3,Gujarat,933,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-23,2025-08-06,Tier-1,Rajasthan,454,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-04,2025-06-28,Tier-2,Rajasthan,362,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-26,2025-07-17,Tier-3,Rajasthan,826,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-03,2025-07-03,Tier-1,Uttar Pradesh,168,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-06,2025-06-08,Tier-2,Uttar Pradesh,413,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-27,2025-06-09,Tier-3,Uttar Pradesh,741,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-20,2025-06-18,Tier-1,Kerala,965,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-06-09,2025-07-20,Tier-2,Kerala,626,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-28,2025-07-10,Tier-3,Kerala,521,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-28,2025-06-08,Tier-1,Telangana,344,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-30,2025-06-14,Tier-2,Telangana,304,1.5
+Wipro Smart Plug 10A,smart devices,999.0,2025-05-22,2025-06-12,Tier-3,Telangana,652,1.5
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-19,2025-06-15,Tier-1,Maharashtra,561,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-12,2025-07-06,Tier-2,Maharashtra,746,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-29,2025-07-03,Tier-3,Maharashtra,529,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-28,2025-07-06,Tier-1,Delhi,608,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-22,2025-06-14,Tier-2,Delhi,343,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-07-01,2025-07-15,Tier-3,Delhi,943,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-19,2025-06-11,Tier-1,Karnataka,513,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-25,2025-06-28,Tier-2,Karnataka,93,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-07-01,2025-07-16,Tier-3,Karnataka,154,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-05,2025-06-08,Tier-1,Tamil Nadu,37,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-07-01,2025-08-14,Tier-2,Tamil Nadu,238,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-28,2025-07-08,Tier-3,Tamil Nadu,433,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-21,2025-07-23,Tier-1,West Bengal,312,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-02,2025-06-22,Tier-2,West Bengal,19,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-30,2025-07-23,Tier-3,West Bengal,601,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-23,2025-07-31,Tier-1,Gujarat,787,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-21,2025-07-30,Tier-2,Gujarat,370,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-07-02,2025-07-16,Tier-3,Gujarat,285,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-25,2025-07-16,Tier-1,Rajasthan,522,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-07,2025-06-05,Tier-2,Rajasthan,293,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-07,2025-05-28,Tier-3,Rajasthan,174,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-15,2025-06-21,Tier-1,Uttar Pradesh,376,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-18,2025-07-03,Tier-2,Uttar Pradesh,629,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-05,2025-06-03,Tier-3,Uttar Pradesh,891,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-19,2025-06-30,Tier-1,Kerala,978,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-27,2025-06-25,Tier-2,Kerala,291,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-06-04,2025-06-14,Tier-3,Kerala,128,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-29,2025-06-13,Tier-1,Telangana,494,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-11,2025-05-25,Tier-2,Telangana,170,4.0
+Pampers Baby Dry Diapers M 20pcs,diapers,449.0,2025-05-15,2025-06-07,Tier-3,Telangana,21,4.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-22,2025-06-20,Tier-1,Maharashtra,702,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-14,2025-06-16,Tier-2,Maharashtra,260,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-21,2025-07-03,Tier-3,Maharashtra,226,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-14,2025-06-21,Tier-1,Delhi,194,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-25,2025-07-04,Tier-2,Delhi,193,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-17,2025-06-18,Tier-3,Delhi,437,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-26,2025-06-24,Tier-1,Karnataka,160,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-19,2025-06-13,Tier-2,Karnataka,955,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-22,2025-06-08,Tier-3,Karnataka,350,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-07-02,2025-07-19,Tier-1,Tamil Nadu,678,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-01,2025-06-15,Tier-2,Tamil Nadu,504,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-11,2025-07-24,Tier-3,Tamil Nadu,202,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-09,2025-06-13,Tier-1,West Bengal,436,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-23,2025-08-01,Tier-2,West Bengal,123,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-15,2025-07-11,Tier-3,West Bengal,547,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-25,2025-07-16,Tier-1,Gujarat,996,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-25,2025-07-29,Tier-2,Gujarat,823,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-29,2025-08-10,Tier-3,Gujarat,10,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-14,2025-07-24,Tier-1,Rajasthan,985,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-19,2025-07-03,Tier-2,Rajasthan,370,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-07,2025-07-14,Tier-3,Rajasthan,971,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-14,2025-05-29,Tier-1,Uttar Pradesh,584,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-24,2025-08-05,Tier-2,Uttar Pradesh,690,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-08,2025-06-30,Tier-3,Uttar Pradesh,594,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-11,2025-06-02,Tier-1,Kerala,168,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-23,2025-06-12,Tier-2,Kerala,333,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-05-30,2025-06-12,Tier-3,Kerala,623,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-14,2025-06-29,Tier-1,Telangana,491,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-15,2025-07-07,Tier-2,Telangana,288,1.0
+Nestle Cerelac Wheat Apple 300g,baby food,220.0,2025-06-14,2025-07-04,Tier-3,Telangana,650,1.0
+Chicco Soft Toy for Babies,toys,299.0,2025-06-09,2025-06-25,Tier-1,Maharashtra,610,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-12,2025-07-06,Tier-2,Maharashtra,74,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-21,2025-07-07,Tier-3,Maharashtra,152,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-12,2025-07-10,Tier-1,Delhi,837,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-04,2025-07-08,Tier-2,Delhi,426,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-15,2025-06-25,Tier-3,Delhi,506,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-29,2025-07-03,Tier-1,Karnataka,276,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-29,2025-06-15,Tier-2,Karnataka,631,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-19,2025-07-08,Tier-3,Karnataka,971,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-18,2025-06-05,Tier-1,Tamil Nadu,12,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-12,2025-07-17,Tier-2,Tamil Nadu,337,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-16,2025-05-27,Tier-3,Tamil Nadu,463,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-05,2025-07-13,Tier-1,West Bengal,163,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-08,2025-06-29,Tier-2,West Bengal,142,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-30,2025-06-23,Tier-3,West Bengal,309,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-28,2025-06-21,Tier-1,Gujarat,52,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-16,2025-06-17,Tier-2,Gujarat,335,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-18,2025-06-17,Tier-3,Gujarat,416,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-21,2025-06-15,Tier-1,Rajasthan,824,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-11,2025-06-04,Tier-2,Rajasthan,802,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-28,2025-06-17,Tier-3,Rajasthan,60,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-18,2025-07-01,Tier-1,Uttar Pradesh,798,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-20,2025-07-21,Tier-2,Uttar Pradesh,796,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-30,2025-06-22,Tier-3,Uttar Pradesh,902,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-29,2025-08-04,Tier-1,Kerala,678,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-17,2025-06-23,Tier-2,Kerala,300,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-25,2025-07-20,Tier-3,Kerala,115,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-05-28,2025-07-06,Tier-1,Telangana,667,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-07-01,2025-07-23,Tier-2,Telangana,653,2.5
+Chicco Soft Toy for Babies,toys,299.0,2025-06-07,2025-07-11,Tier-3,Telangana,359,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-22,2025-07-08,Tier-1,Maharashtra,360,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-20,2025-06-08,Tier-2,Maharashtra,48,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-20,2025-07-30,Tier-3,Maharashtra,592,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-08,2025-06-06,Tier-1,Delhi,461,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-10,2025-05-26,Tier-2,Delhi,831,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-07-02,2025-07-24,Tier-3,Delhi,896,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-11,2025-07-11,Tier-1,Karnataka,735,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-05,2025-06-23,Tier-2,Karnataka,35,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-24,2025-07-18,Tier-3,Karnataka,19,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-09,2025-06-26,Tier-1,Tamil Nadu,161,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-17,2025-07-22,Tier-2,Tamil Nadu,868,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-27,2025-06-09,Tier-3,Tamil Nadu,59,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-09,2025-07-07,Tier-1,West Bengal,621,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-04,2025-05-23,Tier-2,West Bengal,866,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-15,2025-07-13,Tier-3,West Bengal,685,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-23,2025-08-04,Tier-1,Gujarat,448,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-14,2025-05-28,Tier-2,Gujarat,696,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-15,2025-06-28,Tier-3,Gujarat,117,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-30,2025-07-11,Tier-1,Rajasthan,640,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-12,2025-07-08,Tier-2,Rajasthan,671,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-16,2025-06-09,Tier-3,Rajasthan,428,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-05,2025-06-21,Tier-1,Uttar Pradesh,169,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-22,2025-07-11,Tier-2,Uttar Pradesh,978,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-19,2025-07-11,Tier-3,Uttar Pradesh,518,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-07,2025-06-10,Tier-1,Kerala,779,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-29,2025-06-14,Tier-2,Kerala,606,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-15,2025-06-27,Tier-3,Kerala,563,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-10,2025-05-30,Tier-1,Telangana,289,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-05-04,2025-06-01,Tier-2,Telangana,589,2.5
+Himalaya Baby Lotion 100ml,baby lotion & wipes,125.0,2025-06-07,2025-07-18,Tier-3,Telangana,176,2.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-19,2025-06-30,Tier-1,Maharashtra,685,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-30,2025-07-18,Tier-2,Maharashtra,657,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-31,2025-06-15,Tier-3,Maharashtra,434,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-25,2025-06-07,Tier-1,Delhi,790,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-15,2025-05-26,Tier-2,Delhi,965,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-28,2025-08-03,Tier-3,Delhi,169,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-12,2025-06-29,Tier-1,Karnataka,239,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-25,2025-07-07,Tier-2,Karnataka,821,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-06,2025-05-18,Tier-3,Karnataka,351,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-27,2025-07-08,Tier-1,Tamil Nadu,736,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-20,2025-05-31,Tier-2,Tamil Nadu,623,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-16,2025-07-30,Tier-3,Tamil Nadu,363,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-10,2025-07-19,Tier-1,West Bengal,125,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-25,2025-07-26,Tier-2,West Bengal,821,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-06,2025-05-20,Tier-3,West Bengal,854,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-04,2025-07-14,Tier-1,Gujarat,312,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-07,2025-06-01,Tier-2,Gujarat,627,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-03,2025-06-28,Tier-3,Gujarat,21,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-16,2025-07-11,Tier-1,Rajasthan,917,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-25,2025-07-24,Tier-2,Rajasthan,524,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-17,2025-07-26,Tier-3,Rajasthan,246,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-10,2025-07-17,Tier-1,Uttar Pradesh,636,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-24,2025-06-07,Tier-2,Uttar Pradesh,989,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-24,2025-06-03,Tier-3,Uttar Pradesh,642,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-03,2025-07-03,Tier-1,Kerala,93,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-27,2025-07-28,Tier-2,Kerala,987,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-25,2025-08-05,Tier-3,Kerala,170,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-11,2025-06-05,Tier-1,Telangana,469,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-05-26,2025-07-08,Tier-2,Telangana,518,1.5
+Pedigree Adult Dog Food 3kg,dog food,749.0,2025-06-19,2025-07-31,Tier-3,Telangana,672,1.5
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-14,2025-05-25,Tier-1,Maharashtra,370,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-12,2025-06-23,Tier-2,Maharashtra,996,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-07,2025-05-25,Tier-3,Maharashtra,458,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-22,2025-07-04,Tier-1,Delhi,189,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-10,2025-07-15,Tier-2,Delhi,205,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-15,2025-06-30,Tier-3,Delhi,428,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-11,2025-07-05,Tier-1,Karnataka,351,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-04,2025-05-25,Tier-2,Karnataka,248,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-15,2025-06-11,Tier-3,Karnataka,438,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-29,2025-07-07,Tier-1,Tamil Nadu,225,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-22,2025-06-30,Tier-2,Tamil Nadu,471,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-27,2025-07-09,Tier-3,Tamil Nadu,857,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-26,2025-07-19,Tier-1,West Bengal,82,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-18,2025-07-18,Tier-2,West Bengal,684,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-07-01,2025-08-06,Tier-3,West Bengal,139,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-29,2025-06-25,Tier-1,Gujarat,215,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-13,2025-07-10,Tier-2,Gujarat,777,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-23,2025-07-27,Tier-3,Gujarat,971,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-08,2025-07-20,Tier-1,Rajasthan,173,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-02,2025-06-25,Tier-2,Rajasthan,842,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-18,2025-06-12,Tier-3,Rajasthan,831,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-18,2025-05-30,Tier-1,Uttar Pradesh,492,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-23,2025-06-07,Tier-2,Uttar Pradesh,34,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-20,2025-08-02,Tier-3,Uttar Pradesh,401,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-12,2025-07-25,Tier-1,Kerala,973,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-08,2025-07-02,Tier-2,Kerala,589,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-05-19,2025-06-09,Tier-3,Kerala,809,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-01,2025-07-08,Tier-1,Telangana,662,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-02,2025-06-25,Tier-2,Telangana,541,2.38
+Drools Cat Litter 5kg,cat litter,299.0,2025-06-15,2025-07-23,Tier-3,Telangana,837,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-27,2025-08-07,Tier-1,Maharashtra,870,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-21,2025-06-01,Tier-2,Maharashtra,69,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-10,2025-07-08,Tier-3,Maharashtra,296,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-13,2025-05-27,Tier-1,Delhi,476,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-30,2025-06-18,Tier-2,Delhi,354,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-07-01,2025-07-21,Tier-3,Delhi,699,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-02,2025-06-26,Tier-1,Karnataka,466,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-10,2025-07-08,Tier-2,Karnataka,914,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-29,2025-06-28,Tier-3,Karnataka,338,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-05,2025-06-21,Tier-1,Tamil Nadu,89,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-17,2025-07-29,Tier-2,Tamil Nadu,269,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-29,2025-07-25,Tier-3,Tamil Nadu,110,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-25,2025-07-02,Tier-1,West Bengal,829,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-28,2025-07-11,Tier-2,West Bengal,528,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-06,2025-07-13,Tier-3,West Bengal,991,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-19,2025-07-05,Tier-1,Gujarat,750,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-11,2025-06-25,Tier-2,Gujarat,519,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-09,2025-05-20,Tier-3,Gujarat,583,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-06,2025-07-06,Tier-1,Rajasthan,255,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-26,2025-06-19,Tier-2,Rajasthan,670,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-23,2025-07-25,Tier-3,Rajasthan,835,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-08,2025-05-22,Tier-1,Uttar Pradesh,74,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-20,2025-07-20,Tier-2,Uttar Pradesh,995,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-14,2025-06-13,Tier-3,Uttar Pradesh,702,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-15,2025-07-26,Tier-1,Kerala,173,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-16,2025-07-30,Tier-2,Kerala,506,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-04,2025-05-24,Tier-3,Kerala,712,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-12,2025-07-17,Tier-1,Telangana,519,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-06-29,2025-08-11,Tier-2,Telangana,573,2.38
+Petzone Squeaky Toy,pet toys,150.0,2025-05-16,2025-06-12,Tier-3,Telangana,753,2.38
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-29,2025-07-06,Tier-1,Maharashtra,445,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-04,2025-07-04,Tier-2,Maharashtra,563,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-20,2025-07-16,Tier-3,Maharashtra,129,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-24,2025-07-04,Tier-1,Delhi,139,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-04,2025-06-11,Tier-2,Delhi,106,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-23,2025-07-23,Tier-3,Delhi,293,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-22,2025-08-04,Tier-1,Karnataka,785,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-05,2025-06-05,Tier-2,Karnataka,209,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-15,2025-06-08,Tier-3,Karnataka,922,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-04,2025-06-05,Tier-1,Tamil Nadu,865,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-19,2025-06-16,Tier-2,Tamil Nadu,590,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-01,2025-06-11,Tier-3,Tamil Nadu,96,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-27,2025-06-13,Tier-1,West Bengal,854,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-25,2025-07-27,Tier-2,West Bengal,52,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-07-02,2025-08-04,Tier-3,West Bengal,492,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-09,2025-07-05,Tier-1,Gujarat,654,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-13,2025-07-13,Tier-2,Gujarat,241,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-06,2025-06-15,Tier-3,Gujarat,375,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-28,2025-06-17,Tier-1,Rajasthan,445,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-18,2025-07-16,Tier-2,Rajasthan,400,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-13,2025-06-19,Tier-3,Rajasthan,572,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-21,2025-06-04,Tier-1,Uttar Pradesh,782,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-03,2025-07-14,Tier-2,Uttar Pradesh,529,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-23,2025-08-03,Tier-3,Uttar Pradesh,377,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-05,2025-07-01,Tier-1,Kerala,232,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-25,2025-07-29,Tier-2,Kerala,338,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-07-01,2025-07-25,Tier-3,Kerala,955,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-06-30,2025-07-13,Tier-1,Telangana,599,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-23,2025-06-26,Tier-2,Telangana,387,2.5
+Himalaya Erina Pet Shampoo 200ml,pet shampoo,165.0,2025-05-09,2025-05-28,Tier-3,Telangana,158,2.5
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-28,2025-06-18,Tier-1,Maharashtra,868,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-24,2025-06-04,Tier-2,Maharashtra,383,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-20,2025-07-31,Tier-3,Maharashtra,360,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-17,2025-07-28,Tier-1,Delhi,297,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-04,2025-06-16,Tier-2,Delhi,532,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-23,2025-07-17,Tier-3,Delhi,282,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-24,2025-06-20,Tier-1,Karnataka,192,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-24,2025-07-28,Tier-2,Karnataka,497,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-05,2025-05-28,Tier-3,Karnataka,133,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-06,2025-06-09,Tier-1,Tamil Nadu,635,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-11,2025-07-20,Tier-2,Tamil Nadu,989,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-12,2025-07-23,Tier-3,Tamil Nadu,444,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-18,2025-06-17,Tier-1,West Bengal,131,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-01,2025-07-10,Tier-2,West Bengal,640,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-25,2025-06-15,Tier-3,West Bengal,242,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-17,2025-06-13,Tier-1,Gujarat,158,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-20,2025-07-20,Tier-2,Gujarat,647,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-25,2025-07-11,Tier-3,Gujarat,672,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-20,2025-06-30,Tier-1,Rajasthan,212,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-11,2025-07-12,Tier-2,Rajasthan,244,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-08,2025-07-09,Tier-3,Rajasthan,869,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-04,2025-06-26,Tier-1,Uttar Pradesh,475,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-07-01,2025-08-08,Tier-2,Uttar Pradesh,222,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-18,2025-07-24,Tier-3,Uttar Pradesh,571,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-02,2025-06-26,Tier-1,Kerala,416,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-09,2025-07-01,Tier-2,Kerala,287,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-21,2025-07-02,Tier-3,Kerala,705,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-30,2025-07-28,Tier-1,Telangana,32,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-06-04,2025-07-13,Tier-2,Telangana,816,2.75
+Prestige Non-stick Fry Pan 240mm,non-stick cookware,799.0,2025-05-20,2025-06-23,Tier-3,Telangana,137,2.75
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-27,2025-06-13,Tier-1,Maharashtra,371,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-06,2025-05-31,Tier-2,Maharashtra,593,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-07-02,2025-07-16,Tier-3,Maharashtra,524,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-07-02,2025-07-15,Tier-1,Delhi,113,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-29,2025-07-09,Tier-2,Delhi,841,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-22,2025-07-04,Tier-3,Delhi,500,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-08,2025-06-27,Tier-1,Karnataka,414,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-18,2025-06-23,Tier-2,Karnataka,932,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-07-01,2025-07-23,Tier-3,Karnataka,402,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-12,2025-06-12,Tier-1,Tamil Nadu,243,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-07,2025-06-28,Tier-2,Tamil Nadu,218,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-19,2025-07-12,Tier-3,Tamil Nadu,642,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-30,2025-06-28,Tier-1,West Bengal,596,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-17,2025-07-27,Tier-2,West Bengal,79,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-08,2025-06-05,Tier-3,West Bengal,110,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-06,2025-05-19,Tier-1,Gujarat,632,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-29,2025-07-28,Tier-2,Gujarat,915,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-09,2025-07-23,Tier-3,Gujarat,163,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-27,2025-06-26,Tier-1,Rajasthan,831,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-24,2025-06-23,Tier-2,Rajasthan,211,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-26,2025-06-08,Tier-3,Rajasthan,197,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-07,2025-06-05,Tier-1,Uttar Pradesh,282,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-09,2025-05-25,Tier-2,Uttar Pradesh,525,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-04,2025-06-27,Tier-3,Uttar Pradesh,524,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-09,2025-07-04,Tier-1,Kerala,707,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-09,2025-05-22,Tier-2,Kerala,897,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-09,2025-07-22,Tier-3,Kerala,679,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-06-15,2025-07-13,Tier-1,Telangana,168,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-04,2025-06-01,Tier-2,Telangana,826,2.25
+Milton Airtight Storage Jar Set,storage jars,499.0,2025-05-18,2025-06-15,Tier-3,Telangana,415,2.25
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-09,2025-06-30,Tier-1,Maharashtra,551,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-06,2025-06-15,Tier-2,Maharashtra,877,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-14,2025-07-23,Tier-3,Maharashtra,192,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-15,2025-06-26,Tier-1,Delhi,155,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-12,2025-06-18,Tier-2,Delhi,772,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-17,2025-06-06,Tier-3,Delhi,834,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-04,2025-06-15,Tier-1,Karnataka,410,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-27,2025-07-10,Tier-2,Karnataka,669,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-16,2025-06-21,Tier-3,Karnataka,408,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-27,2025-07-20,Tier-1,Tamil Nadu,133,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-22,2025-07-10,Tier-2,Tamil Nadu,611,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-17,2025-07-01,Tier-3,Tamil Nadu,514,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-12,2025-05-31,Tier-1,West Bengal,59,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-30,2025-07-22,Tier-2,West Bengal,628,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-15,2025-06-23,Tier-3,West Bengal,263,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-10,2025-05-25,Tier-1,Gujarat,858,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-05,2025-06-02,Tier-2,Gujarat,435,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-29,2025-07-03,Tier-3,Gujarat,590,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-04,2025-07-03,Tier-1,Rajasthan,58,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-12,2025-07-01,Tier-2,Rajasthan,713,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-28,2025-07-13,Tier-3,Rajasthan,611,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-29,2025-08-12,Tier-1,Uttar Pradesh,650,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-09,2025-06-24,Tier-2,Uttar Pradesh,818,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-10,2025-06-19,Tier-3,Uttar Pradesh,605,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-09,2025-07-13,Tier-1,Kerala,557,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-12,2025-07-21,Tier-2,Kerala,417,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-20,2025-06-28,Tier-3,Kerala,351,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-06-05,2025-06-21,Tier-1,Telangana,172,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-09,2025-06-15,Tier-2,Telangana,279,2.75
+Borosil Glass Lunch Box Set,lunch boxes,899.0,2025-05-08,2025-05-27,Tier-3,Telangana,857,2.75
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-17,2025-07-27,Tier-1,Maharashtra,627,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-08,2025-06-30,Tier-2,Maharashtra,591,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-20,2025-06-07,Tier-3,Maharashtra,822,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-28,2025-06-26,Tier-1,Delhi,859,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-06,2025-06-05,Tier-2,Delhi,205,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-14,2025-06-25,Tier-3,Delhi,996,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-26,2025-07-11,Tier-1,Karnataka,648,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-18,2025-07-15,Tier-2,Karnataka,681,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-08,2025-05-28,Tier-3,Karnataka,157,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-09,2025-07-03,Tier-1,Tamil Nadu,953,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-26,2025-07-26,Tier-2,Tamil Nadu,435,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-07,2025-06-30,Tier-3,Tamil Nadu,322,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-27,2025-06-26,Tier-1,West Bengal,91,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-28,2025-07-10,Tier-2,West Bengal,608,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-07,2025-07-10,Tier-3,West Bengal,314,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-14,2025-07-18,Tier-1,Gujarat,862,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-21,2025-08-02,Tier-2,Gujarat,187,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-11,2025-05-24,Tier-3,Gujarat,904,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-22,2025-06-07,Tier-1,Rajasthan,607,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-09,2025-06-20,Tier-2,Rajasthan,602,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-09,2025-07-22,Tier-3,Rajasthan,37,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-06,2025-06-06,Tier-1,Uttar Pradesh,186,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-16,2025-07-29,Tier-2,Uttar Pradesh,975,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-18,2025-06-02,Tier-3,Uttar Pradesh,619,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-07-02,2025-07-21,Tier-1,Kerala,862,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-28,2025-07-09,Tier-2,Kerala,31,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-16,2025-05-27,Tier-3,Kerala,851,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-30,2025-06-24,Tier-1,Telangana,889,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-05-13,2025-06-13,Tier-2,Telangana,597,2.25
+Cello Stainless Steel Bottle 1L,water bottles,450.0,2025-06-09,2025-06-28,Tier-3,Telangana,620,2.25
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-13,2025-06-23,Tier-1,Maharashtra,400,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-12,2025-07-11,Tier-2,Maharashtra,163,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-29,2025-07-30,Tier-3,Maharashtra,664,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-08,2025-06-07,Tier-1,Delhi,88,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-11,2025-07-18,Tier-2,Delhi,791,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-06,2025-07-13,Tier-3,Delhi,35,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-15,2025-05-26,Tier-1,Karnataka,930,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-08,2025-05-20,Tier-2,Karnataka,977,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-20,2025-07-01,Tier-3,Karnataka,563,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-12,2025-06-25,Tier-1,Tamil Nadu,783,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-25,2025-06-26,Tier-2,Tamil Nadu,610,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-05,2025-06-02,Tier-3,Tamil Nadu,718,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-13,2025-06-02,Tier-1,West Bengal,513,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-21,2025-07-10,Tier-2,West Bengal,17,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-09,2025-07-16,Tier-3,West Bengal,306,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-28,2025-06-27,Tier-1,Gujarat,81,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-09,2025-05-27,Tier-2,Gujarat,568,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-18,2025-07-15,Tier-3,Gujarat,563,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-04,2025-06-02,Tier-1,Rajasthan,463,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-21,2025-07-02,Tier-2,Rajasthan,784,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-17,2025-06-29,Tier-3,Rajasthan,886,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-30,2025-08-05,Tier-1,Uttar Pradesh,635,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-21,2025-07-02,Tier-2,Uttar Pradesh,229,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-07-02,2025-07-19,Tier-3,Uttar Pradesh,622,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-01,2025-06-14,Tier-1,Kerala,999,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-27,2025-07-25,Tier-2,Kerala,553,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-24,2025-07-15,Tier-3,Kerala,916,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-18,2025-06-12,Tier-1,Telangana,138,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-05-19,2025-06-18,Tier-2,Telangana,679,2.0
+Classmate Notebook 200 pages,notebooks,40.0,2025-06-20,2025-08-02,Tier-3,Telangana,269,2.0
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-05,2025-07-15,Tier-1,Maharashtra,580,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-09,2025-06-14,Tier-2,Maharashtra,846,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-08,2025-06-20,Tier-3,Maharashtra,362,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-29,2025-08-02,Tier-1,Delhi,925,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-30,2025-07-04,Tier-2,Delhi,391,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-28,2025-08-11,Tier-3,Delhi,710,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-05,2025-07-13,Tier-1,Karnataka,274,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-12,2025-05-27,Tier-2,Karnataka,220,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-04,2025-05-24,Tier-3,Karnataka,459,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-17,2025-06-04,Tier-1,Tamil Nadu,734,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-09,2025-07-22,Tier-2,Tamil Nadu,991,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-30,2025-07-21,Tier-3,Tamil Nadu,485,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-03,2025-07-08,Tier-1,West Bengal,286,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-05,2025-07-10,Tier-2,West Bengal,199,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-31,2025-06-30,Tier-3,West Bengal,684,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-12,2025-06-24,Tier-1,Gujarat,50,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-13,2025-06-09,Tier-2,Gujarat,323,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-22,2025-07-24,Tier-3,Gujarat,185,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-11,2025-07-07,Tier-1,Rajasthan,846,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-20,2025-06-09,Tier-2,Rajasthan,871,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-18,2025-07-24,Tier-3,Rajasthan,940,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-31,2025-06-29,Tier-1,Uttar Pradesh,902,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-17,2025-07-30,Tier-2,Uttar Pradesh,75,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-29,2025-07-05,Tier-3,Uttar Pradesh,56,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-25,2025-06-09,Tier-1,Kerala,210,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-13,2025-06-23,Tier-2,Kerala,977,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-05-09,2025-06-10,Tier-3,Kerala,649,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-30,2025-07-13,Tier-1,Telangana,451,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-08,2025-07-02,Tier-2,Telangana,200,2.25
+Reynolds Trimax Gel Pen Pack of 3,pens & markers,60.0,2025-06-12,2025-07-26,Tier-3,Telangana,322,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-11,2025-06-03,Tier-1,Maharashtra,469,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-16,2025-07-04,Tier-2,Maharashtra,876,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-04,2025-05-26,Tier-3,Maharashtra,216,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-15,2025-07-27,Tier-1,Delhi,655,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-05,2025-06-10,Tier-2,Delhi,416,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-05,2025-06-10,Tier-3,Delhi,363,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-08,2025-05-31,Tier-1,Karnataka,621,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-11,2025-05-28,Tier-2,Karnataka,711,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-29,2025-06-26,Tier-3,Karnataka,551,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-19,2025-07-18,Tier-1,Tamil Nadu,890,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-08,2025-07-11,Tier-2,Tamil Nadu,279,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-07,2025-07-09,Tier-3,Tamil Nadu,671,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-16,2025-06-13,Tier-1,West Bengal,631,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-13,2025-05-25,Tier-2,West Bengal,435,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-14,2025-07-02,Tier-3,West Bengal,293,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-13,2025-06-29,Tier-1,Gujarat,727,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-24,2025-07-22,Tier-2,Gujarat,952,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-12,2025-06-04,Tier-3,Gujarat,129,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-26,2025-06-21,Tier-1,Rajasthan,295,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-24,2025-08-05,Tier-2,Rajasthan,385,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-12,2025-06-15,Tier-3,Rajasthan,663,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-22,2025-08-05,Tier-1,Uttar Pradesh,964,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-19,2025-07-28,Tier-2,Uttar Pradesh,50,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-29,2025-07-12,Tier-3,Uttar Pradesh,997,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-06-25,2025-07-06,Tier-1,Kerala,882,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-18,2025-06-18,Tier-2,Kerala,946,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-08,2025-06-02,Tier-3,Kerala,486,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-15,2025-06-23,Tier-1,Telangana,277,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-29,2025-06-18,Tier-2,Telangana,585,2.25
+AmazonBasics Desk Organizer,desk organizers,350.0,2025-05-18,2025-06-17,Tier-3,Telangana,776,2.25
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-12,2025-06-26,Tier-1,Maharashtra,313,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-13,2025-06-25,Tier-2,Maharashtra,693,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-31,2025-06-18,Tier-3,Maharashtra,454,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-24,2025-07-07,Tier-1,Delhi,44,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-16,2025-07-29,Tier-2,Delhi,737,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-01,2025-06-11,Tier-3,Delhi,17,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-19,2025-06-20,Tier-1,Karnataka,440,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-24,2025-06-14,Tier-2,Karnataka,447,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-21,2025-07-15,Tier-3,Karnataka,882,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-14,2025-07-19,Tier-1,Tamil Nadu,829,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-04,2025-07-05,Tier-2,Tamil Nadu,241,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-12,2025-07-11,Tier-3,Tamil Nadu,514,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-04,2025-06-17,Tier-1,West Bengal,832,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-26,2025-08-02,Tier-2,West Bengal,549,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-29,2025-07-30,Tier-3,West Bengal,85,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-19,2025-05-31,Tier-1,Gujarat,863,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-20,2025-05-31,Tier-2,Gujarat,993,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-30,2025-07-05,Tier-3,Gujarat,960,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-23,2025-06-02,Tier-1,Rajasthan,593,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-10,2025-06-25,Tier-2,Rajasthan,223,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-08,2025-07-05,Tier-3,Rajasthan,922,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-21,2025-07-06,Tier-1,Uttar Pradesh,739,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-06,2025-06-23,Tier-2,Uttar Pradesh,476,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-04,2025-05-14,Tier-3,Uttar Pradesh,450,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-04,2025-07-18,Tier-1,Kerala,433,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-19,2025-08-02,Tier-2,Kerala,441,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-19,2025-06-17,Tier-3,Kerala,833,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-15,2025-06-06,Tier-1,Telangana,710,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-05-26,2025-06-12,Tier-2,Telangana,564,2.62
+JK Copier Paper A4 500 Sheets,printer paper,280.0,2025-06-13,2025-07-25,Tier-3,Telangana,611,2.62
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-25,2025-06-24,Tier-1,Maharashtra,766,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-15,2025-06-02,Tier-2,Maharashtra,353,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-27,2025-06-22,Tier-3,Maharashtra,865,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-12,2025-07-04,Tier-1,Delhi,713,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-22,2025-07-20,Tier-2,Delhi,916,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-20,2025-06-30,Tier-3,Delhi,177,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-20,2025-06-17,Tier-1,Karnataka,341,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-25,2025-07-12,Tier-2,Karnataka,966,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-11,2025-06-01,Tier-3,Karnataka,454,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-16,2025-06-27,Tier-1,Tamil Nadu,310,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-07,2025-07-14,Tier-2,Tamil Nadu,259,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-28,2025-07-15,Tier-3,Tamil Nadu,162,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-06,2025-07-08,Tier-1,West Bengal,679,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-19,2025-06-20,Tier-2,West Bengal,698,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-17,2025-06-15,Tier-3,West Bengal,859,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-15,2025-06-26,Tier-1,Gujarat,333,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-03,2025-07-15,Tier-2,Gujarat,648,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-28,2025-06-24,Tier-3,Gujarat,494,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-14,2025-07-21,Tier-1,Rajasthan,945,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-13,2025-07-25,Tier-2,Rajasthan,341,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-06,2025-05-30,Tier-3,Rajasthan,50,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-25,2025-06-05,Tier-1,Uttar Pradesh,968,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-04,2025-06-23,Tier-2,Uttar Pradesh,459,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-13,2025-06-02,Tier-3,Uttar Pradesh,982,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-23,2025-07-16,Tier-1,Kerala,219,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-13,2025-05-31,Tier-2,Kerala,386,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-25,2025-07-01,Tier-3,Kerala,780,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-06-13,2025-06-28,Tier-1,Telangana,676,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-11,2025-05-22,Tier-2,Telangana,614,2.75
+Bombay Dyeing Double Bedsheet,bedsheets,899.0,2025-05-26,2025-06-07,Tier-3,Telangana,921,2.75
+Trident Bath Towels Set of 2,towels,499.0,2025-06-03,2025-06-14,Tier-1,Maharashtra,90,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-23,2025-06-13,Tier-2,Maharashtra,428,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-21,2025-05-31,Tier-3,Maharashtra,320,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-19,2025-06-12,Tier-1,Delhi,995,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-27,2025-06-26,Tier-2,Delhi,583,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-15,2025-06-24,Tier-3,Delhi,930,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-10,2025-07-13,Tier-1,Karnataka,514,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-26,2025-07-02,Tier-2,Karnataka,286,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-10,2025-06-06,Tier-3,Karnataka,429,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-29,2025-06-16,Tier-1,Tamil Nadu,958,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-26,2025-07-04,Tier-2,Tamil Nadu,197,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-20,2025-07-02,Tier-3,Tamil Nadu,809,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-30,2025-07-12,Tier-1,West Bengal,165,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-20,2025-06-13,Tier-2,West Bengal,50,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-10,2025-06-30,Tier-3,West Bengal,569,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-01,2025-07-13,Tier-1,Gujarat,929,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-25,2025-07-07,Tier-2,Gujarat,449,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-05,2025-06-21,Tier-3,Gujarat,205,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-27,2025-06-06,Tier-1,Rajasthan,202,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-17,2025-06-15,Tier-2,Rajasthan,796,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-04,2025-06-23,Tier-3,Rajasthan,453,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-15,2025-07-22,Tier-1,Uttar Pradesh,428,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-21,2025-06-30,Tier-2,Uttar Pradesh,484,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-22,2025-07-06,Tier-3,Uttar Pradesh,401,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-30,2025-06-20,Tier-1,Kerala,495,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-07-02,2025-08-11,Tier-2,Kerala,397,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-15,2025-05-29,Tier-3,Kerala,935,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-05-08,2025-06-10,Tier-1,Telangana,452,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-30,2025-07-20,Tier-2,Telangana,566,2.38
+Trident Bath Towels Set of 2,towels,499.0,2025-06-29,2025-08-03,Tier-3,Telangana,164,2.38
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-18,2025-06-23,Tier-1,Maharashtra,243,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-13,2025-05-28,Tier-2,Maharashtra,836,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-18,2025-07-27,Tier-3,Maharashtra,947,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-27,2025-07-10,Tier-1,Delhi,96,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-27,2025-07-10,Tier-2,Delhi,795,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-04,2025-05-22,Tier-3,Delhi,378,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-04,2025-06-26,Tier-1,Karnataka,68,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-17,2025-06-12,Tier-2,Karnataka,118,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-01,2025-07-02,Tier-3,Karnataka,77,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-28,2025-07-20,Tier-1,Tamil Nadu,683,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-19,2025-06-19,Tier-2,Tamil Nadu,830,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-05,2025-06-06,Tier-3,Tamil Nadu,956,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-30,2025-08-12,Tier-1,West Bengal,425,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-19,2025-06-18,Tier-2,West Bengal,951,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-20,2025-06-19,Tier-3,West Bengal,309,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-22,2025-07-05,Tier-1,Gujarat,508,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-07-02,2025-08-08,Tier-2,Gujarat,968,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-09,2025-07-23,Tier-3,Gujarat,918,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-17,2025-06-29,Tier-1,Rajasthan,148,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-28,2025-06-23,Tier-2,Rajasthan,108,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-04,2025-05-31,Tier-3,Rajasthan,113,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-11,2025-07-14,Tier-1,Uttar Pradesh,771,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-14,2025-07-14,Tier-2,Uttar Pradesh,529,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-05,2025-06-19,Tier-3,Uttar Pradesh,666,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-27,2025-06-24,Tier-1,Kerala,73,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-06,2025-07-19,Tier-2,Kerala,276,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-10,2025-05-31,Tier-3,Kerala,255,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-12,2025-07-02,Tier-1,Telangana,496,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-06-05,2025-06-19,Tier-2,Telangana,986,2.12
+Window Curtain Pair 7ft,curtains,1099.0,2025-05-08,2025-06-06,Tier-3,Telangana,946,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-18,2025-06-08,Tier-1,Maharashtra,591,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-16,2025-07-14,Tier-2,Maharashtra,675,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-16,2025-06-26,Tier-3,Maharashtra,591,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-09,2025-05-29,Tier-1,Delhi,426,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-09,2025-07-11,Tier-2,Delhi,408,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-06,2025-06-26,Tier-3,Delhi,713,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-07,2025-06-02,Tier-1,Karnataka,700,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-11,2025-06-03,Tier-2,Karnataka,740,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-15,2025-07-22,Tier-3,Karnataka,956,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-17,2025-05-30,Tier-1,Tamil Nadu,912,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-19,2025-07-02,Tier-2,Tamil Nadu,57,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-24,2025-07-11,Tier-3,Tamil Nadu,125,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-19,2025-06-14,Tier-1,West Bengal,346,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-15,2025-06-26,Tier-2,West Bengal,873,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-25,2025-07-23,Tier-3,West Bengal,584,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-26,2025-06-07,Tier-1,Gujarat,452,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-28,2025-07-20,Tier-2,Gujarat,952,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-18,2025-06-27,Tier-3,Gujarat,729,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-14,2025-06-24,Tier-1,Rajasthan,31,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-04,2025-07-05,Tier-2,Rajasthan,692,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-30,2025-07-19,Tier-3,Rajasthan,819,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-12,2025-07-07,Tier-1,Uttar Pradesh,213,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-07-01,2025-08-03,Tier-2,Uttar Pradesh,556,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-08,2025-06-16,Tier-3,Uttar Pradesh,66,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-03,2025-07-17,Tier-1,Kerala,28,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-14,2025-05-31,Tier-2,Kerala,803,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-15,2025-05-31,Tier-3,Kerala,551,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-06-26,2025-07-08,Tier-1,Telangana,74,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-05-28,2025-07-01,Tier-2,Telangana,558,2.12
+LED String Fairy Lights 10m,home decor,399.0,2025-07-02,2025-07-26,Tier-3,Telangana,558,2.12
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-20,2025-07-07,Tier-1,Maharashtra,910,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-04,2025-05-22,Tier-2,Maharashtra,136,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-07-02,2025-08-15,Tier-3,Maharashtra,203,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-24,2025-06-25,Tier-1,Delhi,274,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-30,2025-06-22,Tier-2,Delhi,393,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-29,2025-08-07,Tier-3,Delhi,367,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-22,2025-08-05,Tier-1,Karnataka,593,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-30,2025-07-23,Tier-2,Karnataka,197,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-20,2025-07-31,Tier-3,Karnataka,299,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-19,2025-06-16,Tier-1,Tamil Nadu,132,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-26,2025-06-20,Tier-2,Tamil Nadu,75,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-24,2025-06-19,Tier-3,Tamil Nadu,384,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-30,2025-06-24,Tier-1,West Bengal,367,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-04,2025-05-15,Tier-2,West Bengal,459,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-07,2025-06-29,Tier-3,West Bengal,193,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-17,2025-06-26,Tier-1,Gujarat,517,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-30,2025-06-11,Tier-2,Gujarat,913,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-10,2025-07-03,Tier-3,Gujarat,641,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-09,2025-06-14,Tier-1,Rajasthan,639,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-04,2025-06-14,Tier-2,Rajasthan,922,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-23,2025-07-01,Tier-3,Rajasthan,446,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-20,2025-07-20,Tier-1,Uttar Pradesh,412,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-11,2025-06-08,Tier-2,Uttar Pradesh,322,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-08,2025-07-09,Tier-3,Uttar Pradesh,40,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-16,2025-07-18,Tier-1,Kerala,553,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-23,2025-07-12,Tier-2,Kerala,493,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-25,2025-07-24,Tier-3,Kerala,169,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-05-14,2025-06-06,Tier-1,Telangana,187,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-05,2025-07-08,Tier-2,Telangana,856,2.38
+Revital H Multivitamins 30 Tabs,multivitamins,325.0,2025-06-11,2025-07-20,Tier-3,Telangana,712,2.38
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-29,2025-07-21,Tier-1,Maharashtra,68,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-10,2025-06-27,Tier-2,Maharashtra,475,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-21,2025-07-31,Tier-3,Maharashtra,983,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-30,2025-06-26,Tier-1,Delhi,769,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-30,2025-06-19,Tier-2,Delhi,882,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-21,2025-07-15,Tier-3,Delhi,450,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-02,2025-07-10,Tier-1,Karnataka,163,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-15,2025-07-26,Tier-2,Karnataka,735,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-26,2025-06-21,Tier-3,Karnataka,352,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-09,2025-06-26,Tier-1,Tamil Nadu,946,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-27,2025-07-11,Tier-2,Tamil Nadu,949,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-07,2025-06-14,Tier-3,Tamil Nadu,677,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-22,2025-07-02,Tier-1,West Bengal,628,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-14,2025-07-02,Tier-2,West Bengal,932,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-30,2025-06-12,Tier-3,West Bengal,621,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-15,2025-07-09,Tier-1,Gujarat,828,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-20,2025-07-18,Tier-2,Gujarat,186,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-27,2025-07-18,Tier-3,Gujarat,700,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-27,2025-06-22,Tier-1,Rajasthan,707,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-10,2025-07-15,Tier-2,Rajasthan,934,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-31,2025-07-06,Tier-3,Rajasthan,738,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-08,2025-05-27,Tier-1,Uttar Pradesh,184,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-10,2025-07-10,Tier-2,Uttar Pradesh,926,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-21,2025-06-12,Tier-3,Uttar Pradesh,110,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-31,2025-07-03,Tier-1,Kerala,885,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-22,2025-07-18,Tier-2,Kerala,461,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-17,2025-06-20,Tier-3,Kerala,615,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-24,2025-07-24,Tier-1,Telangana,861,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-06-14,2025-07-12,Tier-2,Telangana,661,1.75
+Lifebuoy Total Hand Sanitizer 500ml,sanitizers,120.0,2025-05-27,2025-06-22,Tier-3,Telangana,110,1.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-10,2025-06-16,Tier-1,Maharashtra,562,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-29,2025-06-25,Tier-2,Maharashtra,777,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-19,2025-08-02,Tier-3,Maharashtra,245,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-23,2025-06-08,Tier-1,Delhi,22,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-15,2025-07-07,Tier-2,Delhi,109,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-02,2025-06-13,Tier-3,Delhi,537,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-24,2025-07-12,Tier-1,Karnataka,175,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-22,2025-07-23,Tier-2,Karnataka,109,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-19,2025-06-20,Tier-3,Karnataka,182,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-19,2025-07-01,Tier-1,Tamil Nadu,914,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-09,2025-06-26,Tier-2,Tamil Nadu,272,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-28,2025-06-24,Tier-3,Tamil Nadu,12,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-05,2025-06-20,Tier-1,West Bengal,949,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-12,2025-07-19,Tier-2,West Bengal,497,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-10,2025-05-20,Tier-3,West Bengal,365,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-12,2025-07-26,Tier-1,Gujarat,534,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-07,2025-05-26,Tier-2,Gujarat,574,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-20,2025-06-08,Tier-3,Gujarat,567,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-20,2025-07-23,Tier-1,Rajasthan,779,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-11,2025-07-07,Tier-2,Rajasthan,877,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-19,2025-07-08,Tier-3,Rajasthan,684,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-08,2025-06-20,Tier-1,Uttar Pradesh,120,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-26,2025-06-21,Tier-2,Uttar Pradesh,789,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-10,2025-06-12,Tier-3,Uttar Pradesh,550,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-21,2025-06-24,Tier-1,Kerala,749,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-05-06,2025-06-10,Tier-2,Kerala,239,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-07-02,2025-07-31,Tier-3,Kerala,128,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-05,2025-06-30,Tier-1,Telangana,696,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-16,2025-07-23,Tier-2,Telangana,707,2.75
+Dr Trust Infrared Thermometer,thermometers,1499.0,2025-06-21,2025-07-27,Tier-3,Telangana,511,2.75
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-11,2025-06-19,Tier-1,Maharashtra,754,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-30,2025-06-14,Tier-2,Maharashtra,400,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-01,2025-07-12,Tier-3,Maharashtra,510,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-08,2025-07-20,Tier-1,Delhi,64,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-06,2025-05-22,Tier-2,Delhi,765,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-07,2025-05-28,Tier-3,Delhi,537,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-17,2025-07-09,Tier-1,Karnataka,656,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-28,2025-06-15,Tier-2,Karnataka,169,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-22,2025-07-09,Tier-3,Karnataka,234,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-10,2025-07-14,Tier-1,Tamil Nadu,513,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-25,2025-07-26,Tier-2,Tamil Nadu,68,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-29,2025-07-11,Tier-3,Tamil Nadu,934,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-23,2025-06-30,Tier-1,West Bengal,619,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-30,2025-07-06,Tier-2,West Bengal,214,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-18,2025-07-20,Tier-3,West Bengal,949,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-07,2025-06-20,Tier-1,Gujarat,611,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-24,2025-06-11,Tier-2,Gujarat,640,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-28,2025-08-08,Tier-3,Gujarat,989,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-14,2025-06-03,Tier-1,Rajasthan,152,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-01,2025-07-08,Tier-2,Rajasthan,287,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-23,2025-06-18,Tier-3,Rajasthan,580,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-07,2025-06-23,Tier-1,Uttar Pradesh,371,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-07,2025-06-11,Tier-2,Uttar Pradesh,34,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-23,2025-07-21,Tier-3,Uttar Pradesh,276,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-20,2025-07-07,Tier-1,Kerala,369,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-29,2025-08-08,Tier-2,Kerala,421,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-06-22,2025-07-02,Tier-3,Kerala,58,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-17,2025-06-19,Tier-1,Telangana,447,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-04,2025-06-13,Tier-2,Telangana,498,2.12
+Moov Pain Relief Spray 80g,pain relief spray,180.0,2025-05-18,2025-06-22,Tier-3,Telangana,762,2.12
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-14,2025-05-28,Tier-1,Maharashtra,605,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-12,2025-06-01,Tier-2,Maharashtra,257,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-10,2025-06-21,Tier-3,Maharashtra,955,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-26,2025-07-01,Tier-1,Delhi,747,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-18,2025-07-29,Tier-2,Delhi,582,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-06,2025-06-05,Tier-3,Delhi,567,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-28,2025-07-13,Tier-1,Karnataka,303,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-11,2025-07-08,Tier-2,Karnataka,599,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-23,2025-07-15,Tier-3,Karnataka,232,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-03,2025-06-15,Tier-1,Tamil Nadu,999,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-27,2025-08-04,Tier-2,Tamil Nadu,529,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-20,2025-07-01,Tier-3,Tamil Nadu,730,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-16,2025-06-05,Tier-1,West Bengal,342,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-14,2025-06-03,Tier-2,West Bengal,872,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-05,2025-06-20,Tier-3,West Bengal,690,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-17,2025-06-30,Tier-1,Gujarat,876,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-04,2025-06-08,Tier-2,Gujarat,455,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-07,2025-05-28,Tier-3,Gujarat,148,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-27,2025-06-30,Tier-1,Rajasthan,283,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-14,2025-07-16,Tier-2,Rajasthan,320,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-26,2025-06-22,Tier-3,Rajasthan,163,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-27,2025-07-10,Tier-1,Uttar Pradesh,629,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-13,2025-06-20,Tier-2,Uttar Pradesh,580,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-30,2025-06-25,Tier-3,Uttar Pradesh,628,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-21,2025-06-15,Tier-1,Kerala,459,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-30,2025-06-16,Tier-2,Kerala,150,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-22,2025-06-08,Tier-3,Kerala,487,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-01,2025-07-10,Tier-1,Telangana,842,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-05-21,2025-06-16,Tier-2,Telangana,196,1.75
+Atomic Habits by James Clear,non-fiction books,499.0,2025-06-13,2025-07-16,Tier-3,Telangana,763,1.75
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-11,2025-07-19,Tier-1,Maharashtra,95,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-20,2025-06-07,Tier-2,Maharashtra,430,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-23,2025-07-30,Tier-3,Maharashtra,521,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-05,2025-07-05,Tier-1,Delhi,737,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-22,2025-06-02,Tier-2,Delhi,576,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-25,2025-07-31,Tier-3,Delhi,799,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-27,2025-07-02,Tier-1,Karnataka,898,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-04,2025-06-16,Tier-2,Karnataka,885,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-20,2025-07-09,Tier-3,Karnataka,749,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-24,2025-07-30,Tier-1,Tamil Nadu,555,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-13,2025-05-23,Tier-2,Tamil Nadu,681,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-08,2025-07-16,Tier-3,Tamil Nadu,336,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-15,2025-05-27,Tier-1,West Bengal,989,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-13,2025-07-22,Tier-2,West Bengal,684,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-29,2025-07-04,Tier-3,West Bengal,867,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-19,2025-07-15,Tier-1,Gujarat,283,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-19,2025-06-26,Tier-2,Gujarat,989,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-11,2025-06-16,Tier-3,Gujarat,91,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-29,2025-07-09,Tier-1,Rajasthan,123,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-07-02,2025-08-06,Tier-2,Rajasthan,886,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-13,2025-07-15,Tier-3,Rajasthan,275,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-05,2025-05-25,Tier-1,Uttar Pradesh,50,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-23,2025-06-06,Tier-2,Uttar Pradesh,899,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-07-02,2025-07-28,Tier-3,Uttar Pradesh,287,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-30,2025-07-07,Tier-1,Kerala,589,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-28,2025-07-18,Tier-2,Kerala,833,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-13,2025-06-12,Tier-3,Kerala,108,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-21,2025-07-26,Tier-1,Telangana,892,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-06-14,2025-06-30,Tier-2,Telangana,312,2.38
+RD Sharma Class 10 Math Book,academic texts,480.0,2025-05-09,2025-05-25,Tier-3,Telangana,163,2.38
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-24,2025-06-07,Tier-1,Maharashtra,414,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-19,2025-07-02,Tier-2,Maharashtra,800,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-22,2025-06-20,Tier-3,Maharashtra,408,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-14,2025-06-21,Tier-1,Delhi,913,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-23,2025-06-20,Tier-2,Delhi,121,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-25,2025-07-01,Tier-3,Delhi,503,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-07,2025-06-12,Tier-1,Karnataka,845,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-06,2025-05-30,Tier-2,Karnataka,430,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-07-02,2025-07-14,Tier-3,Karnataka,376,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-09,2025-07-15,Tier-1,Tamil Nadu,49,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-28,2025-07-10,Tier-2,Tamil Nadu,998,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-09,2025-07-12,Tier-3,Tamil Nadu,13,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-30,2025-08-12,Tier-1,West Bengal,962,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-15,2025-06-16,Tier-2,West Bengal,190,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-08,2025-06-09,Tier-3,West Bengal,886,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-28,2025-08-07,Tier-1,Gujarat,263,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-11,2025-05-26,Tier-2,Gujarat,366,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-07,2025-05-26,Tier-3,Gujarat,689,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-26,2025-07-26,Tier-1,Rajasthan,326,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-13,2025-06-25,Tier-2,Rajasthan,393,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-13,2025-06-13,Tier-3,Rajasthan,824,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-29,2025-08-05,Tier-1,Uttar Pradesh,853,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-26,2025-06-09,Tier-2,Uttar Pradesh,918,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-10,2025-07-19,Tier-3,Uttar Pradesh,711,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-27,2025-06-30,Tier-1,Kerala,121,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-06,2025-06-29,Tier-2,Kerala,194,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-05-16,2025-06-10,Tier-3,Kerala,513,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-11,2025-07-11,Tier-1,Telangana,319,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-12,2025-06-29,Tier-2,Telangana,762,3.25
+Diwali Gift Hamper Box,gift hampers,699.0,2025-06-17,2025-07-27,Tier-3,Telangana,947,3.25
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-23,2025-08-03,Tier-1,Maharashtra,452,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-30,2025-06-17,Tier-2,Maharashtra,986,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-22,2025-08-02,Tier-3,Maharashtra,19,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-11,2025-07-07,Tier-1,Delhi,845,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-16,2025-06-19,Tier-2,Delhi,644,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-12,2025-06-22,Tier-3,Delhi,200,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-08,2025-07-04,Tier-1,Karnataka,498,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-09,2025-06-20,Tier-2,Karnataka,113,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-18,2025-07-29,Tier-3,Karnataka,432,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-05,2025-05-20,Tier-1,Tamil Nadu,10,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-17,2025-06-18,Tier-2,Tamil Nadu,387,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-25,2025-06-20,Tier-3,Tamil Nadu,427,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-05,2025-06-12,Tier-1,West Bengal,82,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-20,2025-07-05,Tier-2,West Bengal,271,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-13,2025-06-25,Tier-3,West Bengal,346,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-15,2025-06-05,Tier-1,Gujarat,889,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-17,2025-05-27,Tier-2,Gujarat,858,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-30,2025-08-04,Tier-3,Gujarat,792,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-28,2025-07-08,Tier-1,Rajasthan,873,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-29,2025-07-26,Tier-2,Rajasthan,378,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-14,2025-07-28,Tier-3,Rajasthan,497,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-19,2025-07-31,Tier-1,Uttar Pradesh,279,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-30,2025-06-12,Tier-2,Uttar Pradesh,737,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-05,2025-06-12,Tier-3,Uttar Pradesh,860,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-27,2025-08-08,Tier-1,Kerala,954,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-24,2025-06-21,Tier-2,Kerala,202,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-28,2025-08-03,Tier-3,Kerala,345,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-27,2025-07-19,Tier-1,Telangana,249,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-05-29,2025-06-26,Tier-2,Telangana,725,2.0
+Clay Diyas Pack of 12,diyas / lights,180.0,2025-06-17,2025-07-06,Tier-3,Telangana,98,2.0
+Holi Organic Color Pack,holi colors,160.0,2025-06-13,2025-07-23,Tier-1,Maharashtra,461,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-20,2025-06-21,Tier-2,Maharashtra,523,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-08,2025-06-08,Tier-3,Maharashtra,892,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-07,2025-05-24,Tier-1,Delhi,528,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-19,2025-07-01,Tier-2,Delhi,635,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-17,2025-07-15,Tier-3,Delhi,188,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-15,2025-07-10,Tier-1,Karnataka,849,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-04,2025-06-15,Tier-2,Karnataka,122,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-21,2025-07-11,Tier-3,Karnataka,910,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-06,2025-06-27,Tier-1,Tamil Nadu,410,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-27,2025-08-08,Tier-2,Tamil Nadu,526,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-07,2025-06-13,Tier-3,Tamil Nadu,855,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-28,2025-08-09,Tier-1,West Bengal,327,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-14,2025-06-11,Tier-2,West Bengal,735,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-28,2025-07-09,Tier-3,West Bengal,999,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-17,2025-05-30,Tier-1,Gujarat,298,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-20,2025-07-19,Tier-2,Gujarat,703,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-26,2025-07-20,Tier-3,Gujarat,224,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-19,2025-07-21,Tier-1,Rajasthan,412,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-10,2025-06-17,Tier-2,Rajasthan,769,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-13,2025-07-21,Tier-3,Rajasthan,801,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-15,2025-07-04,Tier-1,Uttar Pradesh,370,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-07,2025-05-24,Tier-2,Uttar Pradesh,227,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-04,2025-06-23,Tier-3,Uttar Pradesh,26,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-07-01,2025-07-16,Tier-1,Kerala,579,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-28,2025-08-04,Tier-2,Kerala,327,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-23,2025-06-06,Tier-3,Kerala,91,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-07,2025-07-06,Tier-1,Telangana,434,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-05-15,2025-06-20,Tier-2,Telangana,698,4.62
+Holi Organic Color Pack,holi colors,160.0,2025-06-21,2025-07-07,Tier-3,Telangana,396,4.62
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-23,2025-08-05,Tier-1,Maharashtra,354,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-29,2025-06-23,Tier-2,Maharashtra,523,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-04,2025-06-06,Tier-3,Maharashtra,595,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-26,2025-06-26,Tier-1,Delhi,163,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-21,2025-06-26,Tier-2,Delhi,678,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-17,2025-06-15,Tier-3,Delhi,996,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-23,2025-06-21,Tier-1,Karnataka,117,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-14,2025-07-13,Tier-2,Karnataka,492,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-17,2025-05-28,Tier-3,Karnataka,423,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-11,2025-06-23,Tier-1,Tamil Nadu,927,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-30,2025-07-15,Tier-2,Tamil Nadu,728,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-06,2025-06-25,Tier-3,Tamil Nadu,82,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-31,2025-07-11,Tier-1,West Bengal,569,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-27,2025-07-08,Tier-2,West Bengal,422,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-29,2025-07-09,Tier-3,West Bengal,604,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-07,2025-07-11,Tier-1,Gujarat,275,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-11,2025-06-04,Tier-2,Gujarat,324,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-11,2025-07-11,Tier-3,Gujarat,900,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-08,2025-06-08,Tier-1,Rajasthan,877,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-30,2025-07-08,Tier-2,Rajasthan,34,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-19,2025-06-25,Tier-3,Rajasthan,458,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-15,2025-05-28,Tier-1,Uttar Pradesh,16,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-15,2025-06-02,Tier-2,Uttar Pradesh,173,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-14,2025-06-24,Tier-3,Uttar Pradesh,659,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-28,2025-06-15,Tier-1,Kerala,246,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-18,2025-06-28,Tier-2,Kerala,809,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-06-27,2025-07-23,Tier-3,Kerala,851,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-14,2025-06-19,Tier-1,Telangana,63,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-14,2025-06-27,Tier-2,Telangana,765,5.0
+Christmas Tree Decor Kit,christmas decor,550.0,2025-05-05,2025-06-04,Tier-3,Telangana,136,5.0

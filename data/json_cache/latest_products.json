@@ -1,0 +1,429 @@
+{
+  "region": "Uttar_Pradesh_Tier-3",
+  "products": [
+    {
+      "product_name": "Fresh Red Apples 1kg",
+      "category": "fresh fruits",
+      "mrp": 120.0,
+      "final_price": 119.08,
+      "inventory_level": 211,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Fresh Spinach Bunch",
+      "category": "fresh vegetables",
+      "mrp": 40.0,
+      "final_price": 39.88,
+      "inventory_level": 169,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Lays Classic Salted Chips 100g",
+      "category": "packaged snacks",
+      "mrp": 20.0,
+      "final_price": 18.63,
+      "inventory_level": 157,
+      "expiry_days": 18
+    },
+    {
+      "product_name": "Amul Full Cream Milk 1L",
+      "category": "dairy",
+      "mrp": 65.0,
+      "final_price": 62.26,
+      "inventory_level": 286,
+      "expiry_days": 9
+    },
+    {
+      "product_name": "Fresho Frozen Sweet Corn 500g",
+      "category": "frozen foods",
+      "mrp": 90.0,
+      "final_price": 86.43,
+      "inventory_level": 792,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Tata Tea Gold 250g",
+      "category": "beverages",
+      "mrp": 115.0,
+      "final_price": 111.71,
+      "inventory_level": 25,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Nivea Soft Moisturizer 100ml",
+      "category": "skincare",
+      "mrp": 120.0,
+      "final_price": 113.06,
+      "inventory_level": 393,
+      "expiry_days": 19
+    },
+    {
+      "product_name": "Dove Hair Fall Rescue Shampoo 340ml",
+      "category": "haircare",
+      "mrp": 250.0,
+      "final_price": 243.29,
+      "inventory_level": 89,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Dettol Original Bathing Soap 125g",
+      "category": "bath & body",
+      "mrp": 45.0,
+      "final_price": 42.85,
+      "inventory_level": 986,
+      "expiry_days": 24
+    },
+    {
+      "product_name": "Colgate MaxFresh Toothpaste 150g",
+      "category": "oral care",
+      "mrp": 90.0,
+      "final_price": 83.92,
+      "inventory_level": 192,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Stayfree Secure XL 20 pads",
+      "category": "sanitary products",
+      "mrp": 110.0,
+      "final_price": 107.78,
+      "inventory_level": 240,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Surf Excel Matic Top Load 2kg",
+      "category": "laundry detergents",
+      "mrp": 370.0,
+      "final_price": 349.65,
+      "inventory_level": 520,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Vim Dishwash Gel 500ml",
+      "category": "dishwashing liquids",
+      "mrp": 95.0,
+      "final_price": 86.95,
+      "inventory_level": 632,
+      "expiry_days": 9
+    },
+    {
+      "product_name": "Lizol Floral Floor Cleaner 1L",
+      "category": "floor cleaners",
+      "mrp": 185.0,
+      "final_price": 175.94,
+      "inventory_level": 834,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Odonil Air Freshener Block 50g",
+      "category": "air fresheners",
+      "mrp": 55.0,
+      "final_price": 53.05,
+      "inventory_level": 389,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Maggi 2-Minute Noodles 70g",
+      "category": "instant noodles",
+      "mrp": 14.0,
+      "final_price": 13.38,
+      "inventory_level": 118,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Fortune Sunflower Oil 1L",
+      "category": "cooking oil",
+      "mrp": 135.0,
+      "final_price": 130.37,
+      "inventory_level": 327,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Everest Red Chilli Powder 100g",
+      "category": "spices & condiments",
+      "mrp": 60.0,
+      "final_price": 58.69,
+      "inventory_level": 967,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Britannia Whole Wheat Bread 400g",
+      "category": "biscuits & breads",
+      "mrp": 45.0,
+      "final_price": 42.91,
+      "inventory_level": 658,
+      "expiry_days": 3
+    },
+    {
+      "product_name": "Boat Rockerz Wireless Earbuds",
+      "category": "headphones / earbuds",
+      "mrp": 1899.0,
+      "final_price": 1738.32,
+      "inventory_level": 709,
+      "expiry_days": 5
+    },
+    {
+      "product_name": "MI USB Type-C Charger",
+      "category": "mobile accessories",
+      "mrp": 599.0,
+      "final_price": 565.81,
+      "inventory_level": 396,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Zebronics USB Keyboard",
+      "category": "computer peripherals",
+      "mrp": 499.0,
+      "final_price": 480.64,
+      "inventory_level": 754,
+      "expiry_days": 2
+    },
+    {
+      "product_name": "Wipro Smart Plug 10A",
+      "category": "smart devices",
+      "mrp": 999.0,
+      "final_price": 950.48,
+      "inventory_level": 741,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Pampers Baby Dry Diapers M 20pcs",
+      "category": "diapers",
+      "mrp": 449.0,
+      "final_price": 436.28,
+      "inventory_level": 891,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Nestle Cerelac Wheat Apple 300g",
+      "category": "baby food",
+      "mrp": 220.0,
+      "final_price": 203.76,
+      "inventory_level": 594,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Chicco Soft Toy for Babies",
+      "category": "toys",
+      "mrp": 299.0,
+      "final_price": 286.59,
+      "inventory_level": 902,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Himalaya Baby Lotion 100ml",
+      "category": "baby lotion & wipes",
+      "mrp": 125.0,
+      "final_price": 119.05,
+      "inventory_level": 518,
+      "expiry_days": 1
+    },
+    {
+      "product_name": "Pedigree Adult Dog Food 3kg",
+      "category": "dog food",
+      "mrp": 749.0,
+      "final_price": 717.44,
+      "inventory_level": 642,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Drools Cat Litter 5kg",
+      "category": "cat litter",
+      "mrp": 299.0,
+      "final_price": 283.39,
+      "inventory_level": 401,
+      "expiry_days": 23
+    },
+    {
+      "product_name": "Petzone Squeaky Toy",
+      "category": "pet toys",
+      "mrp": 150.0,
+      "final_price": 139.63,
+      "inventory_level": 702,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Himalaya Erina Pet Shampoo 200ml",
+      "category": "pet shampoo",
+      "mrp": 165.0,
+      "final_price": 153.02,
+      "inventory_level": 377,
+      "expiry_days": 24
+    },
+    {
+      "product_name": "Prestige Non-stick Fry Pan 240mm",
+      "category": "non-stick cookware",
+      "mrp": 799.0,
+      "final_price": 742.7,
+      "inventory_level": 571,
+      "expiry_days": 14
+    },
+    {
+      "product_name": "Milton Airtight Storage Jar Set",
+      "category": "storage jars",
+      "mrp": 499.0,
+      "final_price": 480.03,
+      "inventory_level": 524,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Borosil Glass Lunch Box Set",
+      "category": "lunch boxes",
+      "mrp": 899.0,
+      "final_price": 870.67,
+      "inventory_level": 605,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Cello Stainless Steel Bottle 1L",
+      "category": "water bottles",
+      "mrp": 450.0,
+      "final_price": 432.17,
+      "inventory_level": 619,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Classmate Notebook 200 pages",
+      "category": "notebooks",
+      "mrp": 40.0,
+      "final_price": 38.82,
+      "inventory_level": 622,
+      "expiry_days": 9
+    },
+    {
+      "product_name": "Reynolds Trimax Gel Pen Pack of 3",
+      "category": "pens & markers",
+      "mrp": 60.0,
+      "final_price": 57.21,
+      "inventory_level": 56,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "AmazonBasics Desk Organizer",
+      "category": "desk organizers",
+      "mrp": 350.0,
+      "final_price": 323.69,
+      "inventory_level": 997,
+      "expiry_days": 2
+    },
+    {
+      "product_name": "JK Copier Paper A4 500 Sheets",
+      "category": "printer paper",
+      "mrp": 280.0,
+      "final_price": 273.81,
+      "inventory_level": 450,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Bombay Dyeing Double Bedsheet",
+      "category": "bedsheets",
+      "mrp": 899.0,
+      "final_price": 872.27,
+      "inventory_level": 982,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Trident Bath Towels Set of 2",
+      "category": "towels",
+      "mrp": 499.0,
+      "final_price": 481.39,
+      "inventory_level": 401,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Window Curtain Pair 7ft",
+      "category": "curtains",
+      "mrp": 1099.0,
+      "final_price": 1016.04,
+      "inventory_level": 666,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "LED String Fairy Lights 10m",
+      "category": "home decor",
+      "mrp": 399.0,
+      "final_price": 392.48,
+      "inventory_level": 66,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Revital H Multivitamins 30 Tabs",
+      "category": "multivitamins",
+      "mrp": 325.0,
+      "final_price": 315.23,
+      "inventory_level": 40,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Lifebuoy Total Hand Sanitizer 500ml",
+      "category": "sanitizers",
+      "mrp": 120.0,
+      "final_price": 116.33,
+      "inventory_level": 110,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Dr Trust Infrared Thermometer",
+      "category": "thermometers",
+      "mrp": 1499.0,
+      "final_price": 1460.52,
+      "inventory_level": 550,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Moov Pain Relief Spray 80g",
+      "category": "pain relief spray",
+      "mrp": 180.0,
+      "final_price": 173.52,
+      "inventory_level": 276,
+      "expiry_days": 11
+    },
+    {
+      "product_name": "Atomic Habits by James Clear",
+      "category": "non-fiction books",
+      "mrp": 499.0,
+      "final_price": 473.77,
+      "inventory_level": 628,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "RD Sharma Class 10 Math Book",
+      "category": "academic texts",
+      "mrp": 480.0,
+      "final_price": 441.19,
+      "inventory_level": 287,
+      "expiry_days": 18
+    },
+    {
+      "product_name": "Diwali Gift Hamper Box",
+      "category": "gift hampers",
+      "mrp": 699.0,
+      "final_price": 677.31,
+      "inventory_level": 711,
+      "expiry_days": 9
+    },
+    {
+      "product_name": "Clay Diyas Pack of 12",
+      "category": "diyas / lights",
+      "mrp": 180.0,
+      "final_price": 173.48,
+      "inventory_level": 860,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Holi Organic Color Pack",
+      "category": "holi colors",
+      "mrp": 160.0,
+      "final_price": 156.9,
+      "inventory_level": 26,
+      "expiry_days": 0
+    },
+    {
+      "product_name": "Christmas Tree Decor Kit",
+      "category": "christmas decor",
+      "mrp": 550.0,
+      "final_price": 547.38,
+      "inventory_level": 659,
+      "expiry_days": 0
+    }
+  ]
+}
