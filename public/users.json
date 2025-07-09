@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "kaustav123",
+    "password": "pass123",
+    "state": "Odisha",
+    "location_zone": "Tier-3"
+  },
+  {
+    "user_id": "param123",
+    "password": "pass123",
+    "state": "Maharashtra",
+    "location_zone": "Tier-1"
+  },
+  {
+    "user_id": "hiya123",
+    "password": "pass123",
+    "state": "Karnataka",
+    "location_zone": "Tier-2"
+  },
+  {
+    "user_id": "nabaruna123",
+    "password": "pass123",
+    "state": "Rajasthan",
+    "location_zone": "Tier-2"
+  }
+]
